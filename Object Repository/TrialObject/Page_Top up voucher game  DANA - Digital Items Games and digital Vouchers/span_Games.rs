@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Games</name>
+   <tag></tag>
+   <elementGuidId>6611a133-98d6-465f-a7a8-63f17f42bc6b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Games' or . = 'Games')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6f0c8362-f95b-4d70-b6eb-8326701942fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-16</value>
+      <webElementGuid>697027e7-1f14-411f-b74f-97fca73aabc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Games</value>
+      <webElementGuid>b15b15bd-9964-42c5-9528-5fae85e6354f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;item-digital&quot;]/div[1]/div[@class=&quot;navbar&quot;]/div[@class=&quot;f-tab f-tab--white f-tab--fixed bgTabs f-flex f-align-center f-justify-space-between&quot;]/div[@class=&quot;center f-flex f-align-center&quot;]/div[@class=&quot;f-title title-16 text-white tab-wrapper&quot;]/span[@class=&quot;p-16&quot;]</value>
+      <webElementGuid>5126f815-813c-4dae-8b3b-08eff25ce420</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div/div/div[2]/div[2]/span</value>
+      <webElementGuid>bc840280-3aa9-4ce1-809d-50f1cb50f96c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::span[1]</value>
+      <webElementGuid>ab0263a0-97fc-4048-97ae-7b9036af05e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Digital Voucher'])[1]/preceding::span[1]</value>
+      <webElementGuid>179890e4-dfd9-4e9b-884a-38a0f34b67ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='News &amp; Events'])[1]/preceding::span[2]</value>
+      <webElementGuid>be0af7da-20aa-4b3e-a33b-45327fbbfb14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Games']/parent::*</value>
+      <webElementGuid>d83e4311-68c4-4305-b7ab-86adaa3f3c16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/span</value>
+      <webElementGuid>2c72c0ba-c6a5-4440-abaa-f2c7f12af1d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Games' or . = 'Games')]</value>
+      <webElementGuid>a7950f46-07d8-472e-bab1-a335a5483ead</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
