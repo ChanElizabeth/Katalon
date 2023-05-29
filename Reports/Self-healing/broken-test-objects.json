@@ -1,3 +1,34 @@
 {
-  "brokenTestObjects" : [ ]
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/TrialObject/Page_Top up voucher game  DANA - Digital Items Games and digital Vouchers/div_Game_body",
+      "brokenLocator": "//div[@id\u003d\u0027app\u0027]/div/div[2]/section/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027LOGIN\u0027])[1]/following::div[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/TrialObject/Page_Top up voucher game  DANA - Digital Items Games and digital Vouchers/div_Identity",
+      "brokenLocator": "//div[@id\u003d\u0027app\u0027]/div/div[2]/section/div/div[51]/div/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Top Up Games\u0027])[1]/preceding::div[3]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/TrialObject/Page_Top up voucher game  DANA - Digital Items Games and digital Vouchers/div_Identity_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/TrialObject/Page_Top up voucher game  DANA - Digital Items Games and digital Vouchers/input_text",
+      "brokenLocator": "//input[@type\u003d\u0027text\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "input[type\u003d\"text\"]",
+      "proposedLocatorMethod": "CSS",
+      "recoveryMethod": "CSS",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/TrialObject/Page_Top up voucher game  DANA - Digital Items Games and digital Vouchers/input_text_CSS.png"
+    }
+  ]
 }

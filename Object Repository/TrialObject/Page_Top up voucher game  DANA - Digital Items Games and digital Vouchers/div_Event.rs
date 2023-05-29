@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Event</name>
+   <tag></tag>
+   <elementGuidId>91d90076-68f4-4d35-901f-5ca42d3b8342</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='Event']/parent::*</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.news-event-category__name.f-title.title-24.inverted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3bfdbcf0-07dd-4c56-a1b7-36398b280776</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>news-event-category__name f-title title-24 inverted</value>
+      <webElementGuid>75d18261-cb7b-497d-b90c-fcafc47b2a9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+      Event
+    </value>
+      <webElementGuid>710599ca-15b5-4820-8f32-1f0c832d14d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;item-digital&quot;]/section[1]/div[@class=&quot;news-event-home l-desktop&quot;]/div[@class=&quot;news-event-content&quot;]/div[1]/div[@class=&quot;pt-28 pb-32&quot;]/div[@class=&quot;news-event-category&quot;]/section[@class=&quot;news-event-category__title f-flex f-justify-space-between f-align-center pb-24 l-desktop&quot;]/div[@class=&quot;news-event-category__name f-title title-24 inverted&quot;]</value>
+      <webElementGuid>ef347af5-f7a4-4af3-ae6c-365916fb5dfd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/section/div/div[2]/div/div/div/section/div</value>
+      <webElementGuid>212fe5bf-05fb-4413-82c3-c658c00bd362</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VIEW MORE'])[5]/following::div[6]</value>
+      <webElementGuid>49c36f59-556f-44a5-94c5-e9c3105686b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keren! Game baru karya anak Bangsa sudah rilis. Yuk kepoin!'])[1]/following::div[7]</value>
+      <webElementGuid>951c1af4-fa41-4c55-b699-4132f1ad6aa3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VIEW ALL'])[1]/preceding::div[1]</value>
+      <webElementGuid>545054f1-bee7-4441-b58c-57d54a46358e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tips Fast Hand Biar Makin Sat-Set Saat Ngegame!'])[2]/preceding::div[5]</value>
+      <webElementGuid>1dbd92b5-d416-4ebd-9c07-042c714b56c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Event']/parent::*</value>
+      <webElementGuid>49ce60ea-238f-4cf2-9211-a096515acf3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/section/div</value>
+      <webElementGuid>a9b2c114-37a0-4ab7-b3d0-be2aa77c5caa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+      Event
+    ' or . = '
+      Event
+    ')]</value>
+      <webElementGuid>fe0e6a36-1e71-4013-9a58-26a15214ee05</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

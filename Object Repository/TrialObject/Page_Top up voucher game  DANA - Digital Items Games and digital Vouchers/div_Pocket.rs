@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pocket</name>
+   <tag></tag>
+   <elementGuidId>1152b7c6-2f55-4331-a7b2-7399cb9a285c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='Pocket']/parent::*</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8aa76b5a-ae51-42f1-9f30-3004f40b1378</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>f-body body-14 p-12 feature</value>
+      <webElementGuid>503c0ca2-4631-4a29-a4d2-41d8ef07839b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                    Pocket
+                  </value>
+      <webElementGuid>6a6dff66-c6d1-4fe1-a6b7-7a1aaf9fddca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;item-digital&quot;]/div[1]/div[@class=&quot;navbar&quot;]/div[@class=&quot;f-tab f-tab--white f-tab--fixed bgTabs f-flex f-align-center f-justify-space-between&quot;]/div[@class=&quot;center f-flex f-align-center&quot;]/div[@class=&quot;more p-16&quot;]/div[@class=&quot;more-popover&quot;]/div[@class=&quot;f-body body-14 p-12 feature&quot;]</value>
+      <webElementGuid>bcd2a443-d15a-4923-b47e-3f3f104802b6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div/div/div[2]/div[5]/div[2]/div[2]</value>
+      <webElementGuid>a2ed1a8f-c9ac-4922-9162-c13aafbd9329</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transaction History'])[1]/following::div[1]</value>
+      <webElementGuid>dc9cec39-bf36-43a3-9d8c-42d4edaad7db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More'])[1]/following::div[3]</value>
+      <webElementGuid>9dd0115f-fbf9-4b2e-a82e-c319e0778fe5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LOGIN'])[1]/preceding::div[8]</value>
+      <webElementGuid>af862534-ec1e-4542-98c2-f096091f8963</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Most Popular'])[1]/preceding::div[15]</value>
+      <webElementGuid>784c46f7-265f-40cb-8f0f-f68ab0a9f006</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pocket']/parent::*</value>
+      <webElementGuid>7d2bc805-1738-404a-8407-01116b5a4271</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/div[2]</value>
+      <webElementGuid>67d7919e-da8c-496a-bdc8-685880def48b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+                    Pocket
+                  ' or . = '
+                    Pocket
+                  ')]</value>
+      <webElementGuid>88179636-e8dd-44fd-a9ed-0a67afca9c9c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
