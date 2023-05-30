@@ -1,0 +1,42 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Check Help per Service,Chrome 113.0.0.0,,,2023-05-30 18:11:19,2023-05-30 18:35:35,24m - 15.862s,FAILED
+,,,,,,,
+Test Cases/Check Help Page,Chrome 113.0.0.0,,,2023-05-30 18:11:19,2023-05-30 18:13:22,2m - 2.465s,PASSED
+"callTestCase(findTestCase(""Dana Home page""), [:], STOP_ON_FAILURE)",Chrome 113.0.0.0,,,2023-05-30 18:11:20,2023-05-30 18:11:21,1.730s,PASSED
+"click(findTestObject(""Help Page/a_Pusat Bantuan""))",Chrome 113.0.0.0,,,2023-05-30 18:11:21,2023-05-30 18:11:52,30.226s,PASSED
+"scrollToElement(findTestObject(""Help Page/title_Halo Ada yang bisa dibantu""), 0)",Chrome 113.0.0.0,,,2023-05-30 18:11:52,2023-05-30 18:12:22,30.085s,PASSED
+"scrollToElement(findTestObject(""Help Page/input_SearchHelp""), 0)",Chrome 113.0.0.0,,,2023-05-30 18:12:22,2023-05-30 18:12:52,30.074s,PASSED
+"scrollToElement(findTestObject(""Help Page/div_Help Body""), 0)",Chrome 113.0.0.0,,,2023-05-30 18:12:52,2023-05-30 18:13:22,30.073s,PASSED
+,,,,,,,
+Test Cases/Check Help Smartfren,Chrome 113.0.0.0,,,2023-05-30 18:13:22,2023-05-30 18:15:24,2m - 1.761s,PASSED
+"callTestCase(findTestCase(""Help Page Check""), [:], STOP_ON_FAILURE)",Chrome 113.0.0.0,,,2023-05-30 18:13:22,2023-05-30 18:14:23,1m - 1.348s,PASSED
+"click(findTestObject(""Help Page/a_Delivery""))",Chrome 113.0.0.0,,,2023-05-30 18:14:23,2023-05-30 18:14:54,30.136s,PASSED
+"verifyElementText(findTestObject(""Help Page/span_help_perservice""), ""DELIVERY"")",Chrome 113.0.0.0,,,2023-05-30 18:14:54,2023-05-30 18:15:24,30.128s,PASSED
+,,,,,,,
+Test Cases/Check Help Delivery,Chrome 113.0.0.0,,,2023-05-30 18:15:24,2023-05-30 18:17:25,2m - 1.433s,PASSED
+"callTestCase(findTestCase(""Help Page Check""), [:], STOP_ON_FAILURE)",Chrome 113.0.0.0,,,2023-05-30 18:15:24,2023-05-30 18:16:25,1m - 1.076s,PASSED
+"click(findTestObject(""Help Page/a_Loyalti""))",Chrome 113.0.0.0,,,2023-05-30 18:16:25,2023-05-30 18:16:55,30.145s,PASSED
+"verifyElementText(findTestObject(""Help Page/span_help_perservice""), ""LOYALTI"")",Chrome 113.0.0.0,,,2023-05-30 18:16:55,2023-05-30 18:17:25,30.095s,PASSED
+,,,,,,,
+Test Cases/Check Help Deals,Chrome 113.0.0.0,,,2023-05-30 18:17:25,2023-05-30 18:19:27,2m - 1.535s,PASSED
+"callTestCase(findTestCase(""Help Page Check""), [:], STOP_ON_FAILURE)",Chrome 113.0.0.0,,,2023-05-30 18:17:25,2023-05-30 18:18:26,1m - 1.149s,PASSED
+"click(findTestObject(""Help Page/a_Pulsa  Data""))",Chrome 113.0.0.0,,,2023-05-30 18:18:26,2023-05-30 18:18:57,30.149s,PASSED
+"verifyElementText(findTestObject(""Help Page/span_help_perservice""), ""PULSA & DATA"")",Chrome 113.0.0.0,,,2023-05-30 18:18:57,2023-05-30 18:19:27,30.094s,PASSED
+,,,,,,,
+Test Cases/Check Help PulsaData,Chrome 113.0.0.0,,,2023-05-30 18:19:27,2023-05-30 18:21:28,2m - 1.473s,PASSED
+"callTestCase(findTestCase(""Help Page Check""), [:], STOP_ON_FAILURE)",Chrome 113.0.0.0,,,2023-05-30 18:19:27,2023-05-30 18:20:28,1m - 1.103s,PASSED
+"click(findTestObject(""Help Page/a_Loyalti""))",Chrome 113.0.0.0,,,2023-05-30 18:20:28,2023-05-30 18:20:58,30.145s,PASSED
+"verifyElementText(findTestObject(""Help Page/span_help_perservice""), ""LOYALTI"")",Chrome 113.0.0.0,,,2023-05-30 18:20:58,2023-05-30 18:21:28,30.104s,PASSED
+,,,,,,,
+Test Cases/Check Help Loyalti,Chrome 113.0.0.0,,,2023-05-30 18:24:01,2023-05-30 18:26:02,2m - 1.414s,PASSED
+"callTestCase(findTestCase(""Help Page Check""), [:], STOP_ON_FAILURE)",Chrome 113.0.0.0,,,2023-05-30 18:24:01,2023-05-30 18:25:02,1m - 1.152s,PASSED
+"click(findTestObject(""Help Page/a_Delivery""))",Chrome 113.0.0.0,,,2023-05-30 18:25:02,2023-05-30 18:25:32,30.139s,PASSED
+"verifyElementText(findTestObject(""Help Page/span_help_perservice""), ""DELIVERY"")",Chrome 113.0.0.0,,,2023-05-30 18:25:32,2023-05-30 18:26:02,30.119s,PASSED
+,,,,,,,
+Test Cases/Check Help Home shopping,Chrome 113.0.0.0,,,2023-05-30 18:26:02,2023-05-30 18:28:04,2m - 2.148s,PASSED
+"callTestCase(findTestCase(""Help Page Check""), [:], STOP_ON_FAILURE)",Chrome 113.0.0.0,,,2023-05-30 18:26:02,2023-05-30 18:27:04,1m - 1.822s,PASSED
+"click(findTestObject(""Help Page/a_Loyalti""))",Chrome 113.0.0.0,,,2023-05-30 18:27:04,2023-05-30 18:27:34,30.119s,PASSED
+"verifyElementText(findTestObject(""Help Page/span_help_perservice""), ""LOYALTI"")",Chrome 113.0.0.0,,,2023-05-30 18:27:34,2023-05-30 18:28:04,30.070s,PASSED
+,,,,,,,
+Test Cases/Check Help AReward,Chrome 113.0.0.0,,,2023-05-30 18:34:00,2023-05-30 18:35:35,1m - 35.364s,FAILED
+"callTestCase(findTestCase(""Help Page Check""), [:], STOP_ON_FAILURE)",Chrome 113.0.0.0,,,2023-05-30 18:34:00,2023-05-30 18:35:35,1m - 35.358s,FAILED

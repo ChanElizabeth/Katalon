@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_appgallery</name>
+   <tag></tag>
+   <elementGuidId>20590ec3-c284-436c-ab03-d16b59e99433</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/section/div/div/div/a[3]/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a:nth-of-type(3) > img.lazyload.is-loaded</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>7e552271-b404-404a-b02e-3aadf174a3e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Explore it on App Gallery</value>
+      <webElementGuid>d72e1fb3-01e4-435f-9b00-2ff09790d31c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lazyload is-loaded</value>
+      <webElementGuid>bdfedec7-93c5-4dad-a50f-2f6bd330c62c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/_nuxt/img/download-app-gallery.80fb99c.png</value>
+      <webElementGuid>ddf74a10-4e0d-4a0d-9b91-dd2d8d22fdd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/section[@class=&quot;download&quot;]/div[@class=&quot;section__container&quot;]/div[@class=&quot;download__text&quot;]/div[@class=&quot;download__button&quot;]/a[3]/img[@class=&quot;lazyload is-loaded&quot;]</value>
+      <webElementGuid>06fea9e4-0594-4ddf-9317-f95769fa38fd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/section/div/div/div/a[3]/img</value>
+      <webElementGuid>163432ec-c1a2-4da4-a0bc-0367baad7a35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Explore it on App Gallery']</value>
+      <webElementGuid>9ddc9483-3a4b-44b0-af57-218ad74a3975</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]/img</value>
+      <webElementGuid>6e80cdc4-7b0e-4bd1-a086-267f67a8e92e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Explore it on App Gallery' and @src = '/_nuxt/img/download-app-gallery.80fb99c.png']</value>
+      <webElementGuid>e4ba3a7e-405a-4657-aa9b-1bef9fce47d6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pencarian</name>
+   <tag></tag>
+   <elementGuidId>1bd8b8df-859c-461a-8af3-23ebcba77d43</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[(text() = 'Pencarian  ' or . = 'Pencarian  ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.sidenav-container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d99c2282-e433-47c5-aab4-2dd416aad8d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sidenav-container</value>
+      <webElementGuid>8578b5c1-fa8e-44c3-ab7a-b9375af7b383</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pencarian  </value>
+      <webElementGuid>b91585dd-0c19-47ec-bf5b-99ed52cc4a4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/div[@class=&quot;blog-page&quot;]/section[@class=&quot;blog-section&quot;]/div[@class=&quot;section__container&quot;]/div[@class=&quot;section__content&quot;]/div[@class=&quot;blog__sidebar&quot;]/div[@class=&quot;sidenav-container&quot;]</value>
+      <webElementGuid>a0fd034b-1004-4e97-842e-0d64c291f8e9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div/section[2]/div/div/div/div</value>
+      <webElementGuid>6991c7d8-0c58-4573-bdcb-711df4dd029b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download'])[1]/following::div[34]</value>
+      <webElementGuid>c9feb7c7-e16c-45d2-a4de-a998eb5009cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ID'])[1]/following::div[34]</value>
+      <webElementGuid>cb39679f-6244-4cd5-a321-1a0ea321ad78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tags'])[1]/preceding::div[2]</value>
+      <webElementGuid>8b530de7-fe6c-4856-bac3-1546433cea3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/div/div/div/div</value>
+      <webElementGuid>1c7e375d-8f20-4d5f-9685-aa340f881925</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Pencarian  ' or . = 'Pencarian  ')]</value>
+      <webElementGuid>c3d4565e-3910-4d40-9999-e9bb73325c96</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

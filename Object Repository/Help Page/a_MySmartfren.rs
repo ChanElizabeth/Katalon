@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_MySmartfren</name>
+   <tag></tag>
+   <elementGuidId>fc55ff79-28b4-4c69-8add-256aa0f2915a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@href = '/help-center/mysmartfren' and (text() = ' 
+            MySmartfren
+          ' or . = ' 
+            MySmartfren
+          ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>70fb8c98-7bcf-4ace-9903-66915b46be8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/help-center/mysmartfren</value>
+      <webElementGuid>0f9ed929-8118-400a-8c65-34b7d7684b1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sub-section__list</value>
+      <webElementGuid>49705b36-fd77-4a47-a462-9c57508d5495</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 
+            MySmartfren
+          </value>
+      <webElementGuid>59ec494c-a8b5-4759-ad7f-311457a63b86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;help-center&quot;]/section[@class=&quot;help-center__body&quot;]/div[@class=&quot;section__container help-center__body-container&quot;]/div[@class=&quot;help-center-index help-center__body-child&quot;]/div[@class=&quot;product&quot;]/div[@class=&quot;product__list&quot;]/div[@class=&quot;sub-section sub-section--active&quot;]/a[@class=&quot;sub-section__list&quot;]</value>
+      <webElementGuid>af68aac4-44bf-4f32-b227-3e7f17b94599</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/section[2]/div/div[2]/div/div/div[2]/a[7]</value>
+      <webElementGuid>97ced3f2-eb96-4681-9663-e30fdaff84f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alipay+ Rewards'])[1]/following::a[1]</value>
+      <webElementGuid>27ef3494-fd3d-4681-a769-076fd64783a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pulsa &amp; Data'])[1]/following::a[2]</value>
+      <webElementGuid>dfe1aab4-a4c6-4554-adad-e65a97fed5d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transfer'])[1]/preceding::a[1]</value>
+      <webElementGuid>7d97d276-68ab-4366-acf9-508bc7c50a27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/help-center/mysmartfren')]</value>
+      <webElementGuid>11c85c1d-bb6e-4178-be43-5a70c0413683</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a[7]</value>
+      <webElementGuid>8ed85773-4b0d-4c3f-a5a2-1666abaf769a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/help-center/mysmartfren' and (text() = ' 
+            MySmartfren
+          ' or . = ' 
+            MySmartfren
+          ')]</value>
+      <webElementGuid>57f278ed-aaa8-4c32-a15d-955f11371450</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

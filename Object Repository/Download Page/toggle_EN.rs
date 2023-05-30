@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>toggle_EN</name>
+   <tag></tag>
+   <elementGuidId>e93c204c-ebe1-4fa6-a05e-55b1163070d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/nav/div/div[4]/div/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.navbar__menu > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8eadd994-0864-4d4f-be96-55d5960c31e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>EN</value>
+      <webElementGuid>42ade4a1-af50-4ca5-8a49-9017d5b20763</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/nav[@class=&quot;navbar&quot;]/div[@class=&quot;navbar__content&quot;]/div[@class=&quot;navbar__right&quot;]/div[@class=&quot;navbar__lang&quot;]/a[@class=&quot;navbar__menu&quot;]/span[1]</value>
+      <webElementGuid>f79b64e9-9b75-48d4-9225-a4830d506af8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/nav/div/div[4]/div/a/span</value>
+      <webElementGuid>87544986-59b2-4768-bc5a-1a153d70a428</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Games'])[1]/following::span[1]</value>
+      <webElementGuid>b239b773-44be-44e2-8b4e-0b0ccedbeee1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pusat Bantuan'])[1]/following::span[1]</value>
+      <webElementGuid>9f890b3b-c51f-4806-9734-7791a297f7f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ID'])[1]/preceding::span[1]</value>
+      <webElementGuid>54bfa1c7-f9c3-4fc8-b431-be02e94e936b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download'])[1]/preceding::span[2]</value>
+      <webElementGuid>e93deda7-ec93-4ba8-bf2b-b70f84a50e96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='EN']/parent::*</value>
+      <webElementGuid>49155e11-0eda-45da-a402-f273af39cc6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/span</value>
+      <webElementGuid>f62f929d-c81a-495c-bb53-821cf2c06514</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'EN' or . = 'EN')]</value>
+      <webElementGuid>42b5d74e-3683-4c3d-99e6-99d6283038d7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

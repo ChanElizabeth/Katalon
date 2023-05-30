@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_help_perservice</name>
+   <tag></tag>
+   <elementGuidId>e1871007-4681-492b-bef0-ff3e2727508a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/section[2]/div/div[2]/div/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.help-center-section__section-name</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c938fe96-1071-4db0-b1f8-e121de736eb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>help-center-section__section-name</value>
+      <webElementGuid>3383e0d0-22dc-4d86-b509-0d65b2c5b20c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+      Loyalti
+    </value>
+      <webElementGuid>c1e5312f-6c71-491c-81c1-1e6d24eb191e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;help-center&quot;]/section[@class=&quot;help-center__body&quot;]/div[@class=&quot;section__container help-center__body-container&quot;]/div[@class=&quot;help-center-section help-center__body-child&quot;]/div[@class=&quot;help-center-section__breadcrumb&quot;]/span[@class=&quot;help-center-section__section-name&quot;]</value>
+      <webElementGuid>75ff109d-265f-46ce-8f02-cbee9a6e69ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/section[2]/div/div[2]/div/span[2]</value>
+      <webElementGuid>e1865631-568c-4875-8a62-3af4538889c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[1]/following::span[1]</value>
+      <webElementGuid>60b6850b-20a4-4a00-91e6-cb0c491ca7ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pusat Bantuan'])[2]/following::span[2]</value>
+      <webElementGuid>3d608e2e-2cba-452d-b656-803fecc41c9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apa itu Kartu Loyalti?'])[2]/preceding::span[1]</value>
+      <webElementGuid>f18ecdf1-2fa9-467d-9108-aab680835cb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apa kelebihan dari Kartu Loyalti?'])[2]/preceding::span[2]</value>
+      <webElementGuid>84047a04-896a-4b76-8caf-21afc86745b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/span[2]</value>
+      <webElementGuid>15b079ca-9079-4fe8-ad42-c5c83da48913</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '
+      Loyalti
+    ' or . = '
+      Loyalti
+    ')]</value>
+      <webElementGuid>215f62d7-57ca-40b4-8a69-10f9a73b6ee4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

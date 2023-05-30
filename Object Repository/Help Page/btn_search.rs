@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_search</name>
+   <tag></tag>
+   <elementGuidId>d9163093-e736-4590-a7b9-c4f2b8c4b7a6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt = 'search icon' and @src = '/_nuxt/img/search.440e6d4.png']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.help-center__search-icon.lazyload.is-loaded</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>12dfef94-2e77-424c-b38f-c881e9c52a88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>search icon</value>
+      <webElementGuid>df7ba42f-ccf7-4462-b794-647fa1d4bb44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>help-center__search-icon lazyload is-loaded</value>
+      <webElementGuid>03713e9a-e508-408c-9477-f38819bb931d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/_nuxt/img/search.440e6d4.png</value>
+      <webElementGuid>2d77a59e-cb39-42a4-ac81-fc4546056bfc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;help-center&quot;]/section[@class=&quot;help-center__header&quot;]/div[@class=&quot;help-center__search&quot;]/div[@class=&quot;help-center__search-form&quot;]/img[@class=&quot;help-center__search-icon lazyload is-loaded&quot;]</value>
+      <webElementGuid>d5e49f0e-2191-45ba-a977-3b2249356b3c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/section/div/div/img</value>
+      <webElementGuid>eef83f5c-cf10-4f2f-995b-2558ac40ae99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='search icon']</value>
+      <webElementGuid>00436def-7681-4cca-8c20-07d9ddde1574</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/img</value>
+      <webElementGuid>4260cc74-90ea-4b6e-bedf-17b8602dc459</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'search icon' and @src = '/_nuxt/img/search.440e6d4.png']</value>
+      <webElementGuid>e090b1fd-33c1-4e5a-bed3-cedfdc055f95</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

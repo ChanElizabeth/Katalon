@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>search_Lazada</name>
+   <tag></tag>
+   <elementGuidId>ba0264be-45a9-4d40-8026-81e62840f4e2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/section[2]/div/div[2]/div/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2c6126a2-91ce-4a5d-94aa-17a0b52a871b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/help-center/lazada</value>
+      <webElementGuid>bc8c186a-4ce7-4057-bec4-25c3e894c1e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>help-center-article__page-name nuxt-link-active</value>
+      <webElementGuid>169af872-f794-42e9-8361-dc36ac7da888</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+      Lazada
+    </value>
+      <webElementGuid>eabf8b8d-d99f-410a-865f-8e0067b55676</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;help-center&quot;]/section[@class=&quot;help-center__body&quot;]/div[@class=&quot;section__container help-center__body-container&quot;]/div[@class=&quot;help-center-article help-center-section help-center__body-child help-center-section--unhide&quot;]/div[@class=&quot;help-center-article__breadcrumb&quot;]/a[@class=&quot;help-center-article__page-name nuxt-link-active&quot;]</value>
+      <webElementGuid>af754e4f-213e-4aee-aec9-3f3e1b9bab96</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/section[2]/div/div[2]/div/a[2]</value>
+      <webElementGuid>777e7d75-35d7-4541-9a58-f097839853bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Lazada')]</value>
+      <webElementGuid>febab5cb-ea09-4ca1-bc62-0b3b8ecc8e79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[1]/following::a[1]</value>
+      <webElementGuid>02c4e7ba-794d-4c19-980a-5a8b26ce2688</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pusat Bantuan'])[2]/following::a[1]</value>
+      <webElementGuid>07ab50be-b9f1-4128-b6f7-0da6dd3dcfc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[2]/preceding::a[1]</value>
+      <webElementGuid>64472c6b-94ea-492d-b1cf-2d76235b7225</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apa itu integrasi DANA x Lazada?'])[2]/preceding::a[1]</value>
+      <webElementGuid>7c70aa81-11e8-4268-8b11-075091634965</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/help-center/lazada')])[6]</value>
+      <webElementGuid>c367249f-e317-413b-84f9-f46d38fb5c41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a[2]</value>
+      <webElementGuid>48451ca3-c15d-4317-8995-bb650b7c29e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/help-center/lazada' and (text() = '
+      Lazada
+    ' or . = '
+      Lazada
+    ')]</value>
+      <webElementGuid>36dfa92b-1b2b-4748-91e1-6b1e747c4c4c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

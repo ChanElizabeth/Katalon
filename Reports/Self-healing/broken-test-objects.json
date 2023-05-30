@@ -29,6 +29,76 @@
       "proposedLocatorMethod": "CSS",
       "recoveryMethod": "CSS",
       "pathToScreenshot": "Reports/Self-healing/Object Repository/TrialObject/Page_Top up voucher game  DANA - Digital Items Games and digital Vouchers/input_text_CSS.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Help Page/title_Halo Ada yang bisa dibantu",
+      "brokenLocator": "//div[@id\u003d\u0027__layout\u0027]/div/section/div/h1",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Download\u0027])[1]/following::h1[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Help Page/span_help_perservice",
+      "brokenLocator": "//div[@id\u003d\u0027__layout\u0027]/div/section[2]/div/div[2]/div/span[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Pusat Bantuan\u0027])[2]/following::span[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Help Page/span_help_perservice_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Help Page/a_Pusat Bantuan",
+      "brokenLocator": "//div[@id\u003d\u0027__layout\u0027]/div/nav/div/div[3]/a[6]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Promo\u0027])[1]/following::a[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Help Page/a_Pusat Bantuan_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Help Page/title_Halo Ada yang bisa dibantu",
+      "brokenLocator": "//div[@id\u003d\u0027__layout\u0027]/div/section/div/h1",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027ID\u0027])[1]/following::h1[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Help Page/title_Halo Ada yang bisa dibantu_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Help Page/input_SearchHelp",
+      "brokenLocator": "//input[@name\u003d\u0027search\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Help Page/input_SearchHelp_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Help Page/div_Help Body",
+      "brokenLocator": "//div[@id\u003d\u0027__layout\u0027]/div/section[2]/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//section[2]/div",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Help Page/div_Help Body_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Help Page/search_Lazada",
+      "brokenLocator": "//div[@id\u003d\u0027__layout\u0027]/div/section[2]/div/div[2]/div/a[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Pusat Bantuan\u0027])[2]/following::a[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Help Page/search_Lazada_neighbor.png"
     }
   ]
 }

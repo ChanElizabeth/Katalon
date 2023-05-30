@@ -1,0 +1,837 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Check Help per Service" time="1455.862" tests="8" failures="1" errors="0">
+   <testsuite name="Check Help per Service" tests="8" failures="1" errors="0" time="1455.862" skipped="0" timestamp="2023-05-30 18:11:19" hostname="elizabethchan - localhost" id="Test Suites/Check Help per Service">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/elizabethchan/Downloads/git/Katalon/Reports/20230530_181116/Check Help per Service/20230530_181117"/>
+         <property name="logFiles" value="/Users/elizabethchan/Downloads/git/Katalon/Reports/20230530_181116/Check Help per Service/20230530_181117/execution0.log"/>
+         <property name="attachments" value="/Users/elizabethchan/Downloads/git/Katalon/Reports/20230530_181116/Check Help per Service/20230530_181117/1685445840015.png, /Users/elizabethchan/Downloads/git/Katalon/Reports/20230530_181116/Check Help per Service/20230530_181117/1685445840843.png, /Users/elizabethchan/Downloads/git/Katalon/Reports/20230530_181116/Check Help per Service/20230530_181117/1685446207245.png, /Users/elizabethchan/Downloads/git/Katalon/Reports/20230530_181116/Check Help per Service/20230530_181117/1685446207996.png, /Users/elizabethchan/Downloads/git/Katalon/Reports/20230530_181116/Check Help per Service/20230530_181117/1685446359852.png, /Users/elizabethchan/Downloads/git/Katalon/Reports/20230530_181116/Check Help per Service/20230530_181117/1685446360685.png, /Users/elizabethchan/Downloads/git/Katalon/Reports/20230530_181116/Check Help per Service/20230530_181117/1685446439382.png, /Users/elizabethchan/Downloads/git/Katalon/Reports/20230530_181116/Check Help per Service/20230530_181117/1685446534616.png"/>
+         <property name="hostName" value="elizabethchan - localhost"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="8.6.0.208"/>
+         <property name="browser" value="Chrome 113.0.0.0"/>
+         <property name="hostAddress" value="127.0.0.1"/>
+         <property name="sessionId" value="4f423f4eccdece661c7bcdb6ae951d5a"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/Check Help Page" time="122.465" classname="Test Cases/Check Help Page" status="PASSED">
+         <system-out><![CDATA[2023-05-30 18:11:19 - [TEST_CASE][PASSED] - Test Cases/Check Help Page: Test Cases/Check Help Page
+
+2023-05-30 18:11:20 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Dana Home page"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/Dana Home page' successfully
+
+2023-05-30 18:11:20 - [TEST_CASE][PASSED] - Test Cases/Dana Home page: Test Cases/Dana Home page
+
+2023-05-30 18:11:20 - [TEST_STEP][PASSED] - openBrowser("https://www.dana.id/"): Browser is opened with url: 'https://www.dana.id/'
+
+2023-05-30 18:11:21 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.dana.id/'
+
+2023-05-30 18:11:21 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Dana Home page' successfully
+
+2023-05-30 18:11:21 - [TEST_STEP][PASSED] - click(findTestObject("Help Page/a_Pusat Bantuan")): Object: 'Object Repository/Help Page/a_Pusat Bantuan' is clicked on
+
+2023-05-30 18:11:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Help Page/a_Pusat Bantuan' is clicked on
+
+2023-05-30 18:11:52 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("Help Page/title_Halo Ada yang bisa dibantu"), 0): Scroll to object 'Object Repository/Help Page/title_Halo Ada yang bisa dibantu' successfully
+
+2023-05-30 18:11:52 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-05-30 18:12:22 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Help Page/title_Halo Ada yang bisa dibantu' successfully
+
+2023-05-30 18:12:22 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("Help Page/input_SearchHelp"), 0): Scroll to object 'Object Repository/Help Page/input_SearchHelp' successfully
+
+2023-05-30 18:12:22 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-05-30 18:12:52 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Help Page/input_SearchHelp' successfully
+
+2023-05-30 18:12:52 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("Help Page/div_Help Body"), 0): Scroll to object 'Object Repository/Help Page/div_Help Body' successfully
+
+2023-05-30 18:12:52 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-05-30 18:13:22 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Help Page/div_Help Body' successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Check Help Smartfren" time="121.761" classname="Test Cases/Check Help Smartfren" status="PASSED">
+         <system-out><![CDATA[2023-05-30 18:13:22 - [TEST_CASE][PASSED] - Test Cases/Check Help Smartfren: Test Cases/Check Help Smartfren
+
+2023-05-30 18:13:22 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Help Page Check"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/Help Page Check' successfully
+
+2023-05-30 18:13:22 - [TEST_CASE][PASSED] - Test Cases/Help Page Check: Test Cases/Help Page Check
+
+2023-05-30 18:13:22 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Dana Home page"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/Dana Home page' successfully
+
+2023-05-30 18:13:22 - [TEST_CASE][PASSED] - Test Cases/Dana Home page: Test Cases/Dana Home page
+
+2023-05-30 18:13:22 - [TEST_STEP][PASSED] - openBrowser("https://www.dana.id/"): Browser is opened with url: 'https://www.dana.id/'
+
+2023-05-30 18:13:23 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.dana.id/'
+
+2023-05-30 18:13:23 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Dana Home page' successfully
+
+2023-05-30 18:13:23 - [TEST_STEP][PASSED] - click(findTestObject("Help Page/a_Pusat Bantuan")): Object: 'Object Repository/Help Page/a_Pusat Bantuan' is clicked on
+
+2023-05-30 18:13:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Help Page/a_Pusat Bantuan' is clicked on
+
+2023-05-30 18:13:53 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("Help Page/div_Help Body"), 0): Scroll to object 'Object Repository/Help Page/div_Help Body' successfully
+
+2023-05-30 18:13:53 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-05-30 18:14:23 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Help Page/div_Help Body' successfully
+
+2023-05-30 18:14:23 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Help Page Check' successfully
+
+2023-05-30 18:14:23 - [TEST_STEP][PASSED] - click(findTestObject("Help Page/a_Delivery")): Object: 'Object Repository/Help Page/a_Delivery' is clicked on
+
+2023-05-30 18:14:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Help Page/a_Delivery' is clicked on
+
+2023-05-30 18:14:54 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Help Page/span_help_perservice"), "DELIVERY"): Actual text and expected text of test object 'Object Repository/Help Page/span_help_perservice' are matched.
+
+2023-05-30 18:15:24 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Help Page/span_help_perservice' are matched.]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Check Help Delivery" time="121.433" classname="Test Cases/Check Help Delivery" status="PASSED">
+         <system-out><![CDATA[2023-05-30 18:15:24 - [TEST_CASE][PASSED] - Test Cases/Check Help Delivery: Test Cases/Check Help Delivery
+
+2023-05-30 18:15:24 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Help Page Check"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/Help Page Check' successfully
+
+2023-05-30 18:15:24 - [TEST_CASE][PASSED] - Test Cases/Help Page Check: Test Cases/Help Page Check
+
+2023-05-30 18:15:24 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Dana Home page"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/Dana Home page' successfully
+
+2023-05-30 18:15:24 - [TEST_CASE][PASSED] - Test Cases/Dana Home page: Test Cases/Dana Home page
+
+2023-05-30 18:15:24 - [TEST_STEP][PASSED] - openBrowser("https://www.dana.id/"): Browser is opened with url: 'https://www.dana.id/'
+
+2023-05-30 18:15:25 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.dana.id/'
+
+2023-05-30 18:15:25 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Dana Home page' successfully
+
+2023-05-30 18:15:25 - [TEST_STEP][PASSED] - click(findTestObject("Help Page/a_Pusat Bantuan")): Object: 'Object Repository/Help Page/a_Pusat Bantuan' is clicked on
+
+2023-05-30 18:15:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Help Page/a_Pusat Bantuan' is clicked on
+
+2023-05-30 18:15:55 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("Help Page/div_Help Body"), 0): Scroll to object 'Object Repository/Help Page/div_Help Body' successfully
+
+2023-05-30 18:15:55 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-05-30 18:16:25 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Help Page/div_Help Body' successfully
+
+2023-05-30 18:16:25 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Help Page Check' successfully
+
+2023-05-30 18:16:25 - [TEST_STEP][PASSED] - click(findTestObject("Help Page/a_Loyalti")): Object: 'Object Repository/Help Page/a_Loyalti' is clicked on
+
+2023-05-30 18:16:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Help Page/a_Loyalti' is clicked on
+
+2023-05-30 18:16:55 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Help Page/span_help_perservice"), "LOYALTI"): Actual text and expected text of test object 'Object Repository/Help Page/span_help_perservice' are matched.
+
+2023-05-30 18:17:25 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Help Page/span_help_perservice' are matched.]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Check Help Deals" time="121.535" classname="Test Cases/Check Help Deals" status="PASSED">
+         <system-out><![CDATA[2023-05-30 18:17:25 - [TEST_CASE][PASSED] - Test Cases/Check Help Deals: Test Cases/Check Help Deals
+
+2023-05-30 18:17:25 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Help Page Check"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/Help Page Check' successfully
+
+2023-05-30 18:17:25 - [TEST_CASE][PASSED] - Test Cases/Help Page Check: Test Cases/Help Page Check
+
+2023-05-30 18:17:25 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Dana Home page"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/Dana Home page' successfully
+
+2023-05-30 18:17:25 - [TEST_CASE][PASSED] - Test Cases/Dana Home page: Test Cases/Dana Home page
+
+2023-05-30 18:17:25 - [TEST_STEP][PASSED] - openBrowser("https://www.dana.id/"): Browser is opened with url: 'https://www.dana.id/'
+
+2023-05-30 18:17:26 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.dana.id/'
+
+2023-05-30 18:17:26 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Dana Home page' successfully
+
+2023-05-30 18:17:26 - [TEST_STEP][PASSED] - click(findTestObject("Help Page/a_Pusat Bantuan")): Object: 'Object Repository/Help Page/a_Pusat Bantuan' is clicked on
+
+2023-05-30 18:17:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Help Page/a_Pusat Bantuan' is clicked on
+
+2023-05-30 18:17:56 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("Help Page/div_Help Body"), 0): Scroll to object 'Object Repository/Help Page/div_Help Body' successfully
+
+2023-05-30 18:17:56 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-05-30 18:18:26 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Help Page/div_Help Body' successfully
+
+2023-05-30 18:18:26 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Help Page Check' successfully
+
+2023-05-30 18:18:26 - [TEST_STEP][PASSED] - click(findTestObject("Help Page/a_Pulsa  Data")): Object: 'Object Repository/Help Page/a_Pulsa  Data' is clicked on
+
+2023-05-30 18:18:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Help Page/a_Pulsa  Data' is clicked on
+
+2023-05-30 18:18:57 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Help Page/span_help_perservice"), "PULSA & DATA"): Actual text and expected text of test object 'Object Repository/Help Page/span_help_perservice' are matched.
+
+2023-05-30 18:19:27 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Help Page/span_help_perservice' are matched.]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Check Help PulsaData" time="121.473" classname="Test Cases/Check Help PulsaData" status="PASSED">
+         <system-out><![CDATA[2023-05-30 18:19:27 - [TEST_CASE][PASSED] - Test Cases/Check Help PulsaData: Test Cases/Check Help PulsaData
+
+2023-05-30 18:19:27 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Help Page Check"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/Help Page Check' successfully
+
+2023-05-30 18:19:27 - [TEST_CASE][PASSED] - Test Cases/Help Page Check: Test Cases/Help Page Check
+
+2023-05-30 18:19:27 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Dana Home page"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/Dana Home page' successfully
+
+2023-05-30 18:19:27 - [TEST_CASE][PASSED] - Test Cases/Dana Home page: Test Cases/Dana Home page
+
+2023-05-30 18:19:27 - [TEST_STEP][PASSED] - openBrowser("https://www.dana.id/"): Browser is opened with url: 'https://www.dana.id/'
+
+2023-05-30 18:19:28 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.dana.id/'
+
+2023-05-30 18:19:28 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Dana Home page' successfully
+
+2023-05-30 18:19:28 - [TEST_STEP][PASSED] - click(findTestObject("Help Page/a_Pusat Bantuan")): Object: 'Object Repository/Help Page/a_Pusat Bantuan' is clicked on
+
+2023-05-30 18:19:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Help Page/a_Pusat Bantuan' is clicked on
+
+2023-05-30 18:19:58 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("Help Page/div_Help Body"), 0): Scroll to object 'Object Repository/Help Page/div_Help Body' successfully
+
+2023-05-30 18:19:58 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-05-30 18:20:28 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Help Page/div_Help Body' successfully
+
+2023-05-30 18:20:28 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Help Page Check' successfully
+
+2023-05-30 18:20:28 - [TEST_STEP][PASSED] - click(findTestObject("Help Page/a_Loyalti")): Object: 'Object Repository/Help Page/a_Loyalti' is clicked on
+
+2023-05-30 18:20:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Help Page/a_Loyalti' is clicked on
+
+2023-05-30 18:20:58 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Help Page/span_help_perservice"), "LOYALTI"): Actual text and expected text of test object 'Object Repository/Help Page/span_help_perservice' are matched.
+
+2023-05-30 18:21:28 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Help Page/span_help_perservice' are matched.]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Check Help Loyalti" time="121.414" classname="Test Cases/Check Help Loyalti" status="PASSED">
+         <system-out><![CDATA[2023-05-30 18:24:01 - [TEST_CASE][PASSED] - Test Cases/Check Help Loyalti: Test Cases/Check Help Loyalti
+
+2023-05-30 18:24:01 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Help Page Check"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/Help Page Check' successfully
+
+2023-05-30 18:24:01 - [TEST_CASE][PASSED] - Test Cases/Help Page Check: Test Cases/Help Page Check
+
+2023-05-30 18:24:01 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Dana Home page"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/Dana Home page' successfully
+
+2023-05-30 18:24:01 - [TEST_CASE][PASSED] - Test Cases/Dana Home page: Test Cases/Dana Home page
+
+2023-05-30 18:24:01 - [TEST_STEP][PASSED] - openBrowser("https://www.dana.id/"): Browser is opened with url: 'https://www.dana.id/'
+
+2023-05-30 18:24:02 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.dana.id/'
+
+2023-05-30 18:24:02 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Dana Home page' successfully
+
+2023-05-30 18:24:02 - [TEST_STEP][PASSED] - click(findTestObject("Help Page/a_Pusat Bantuan")): Object: 'Object Repository/Help Page/a_Pusat Bantuan' is clicked on
+
+2023-05-30 18:24:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Help Page/a_Pusat Bantuan' is clicked on
+
+2023-05-30 18:24:32 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("Help Page/div_Help Body"), 0): Scroll to object 'Object Repository/Help Page/div_Help Body' successfully
+
+2023-05-30 18:24:32 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-05-30 18:25:02 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Help Page/div_Help Body' successfully
+
+2023-05-30 18:25:02 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Help Page Check' successfully
+
+2023-05-30 18:25:02 - [TEST_STEP][PASSED] - click(findTestObject("Help Page/a_Delivery")): Object: 'Object Repository/Help Page/a_Delivery' is clicked on
+
+2023-05-30 18:25:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Help Page/a_Delivery' is clicked on
+
+2023-05-30 18:25:32 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Help Page/span_help_perservice"), "DELIVERY"): Actual text and expected text of test object 'Object Repository/Help Page/span_help_perservice' are matched.
+
+2023-05-30 18:26:02 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Help Page/span_help_perservice' are matched.]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Check Help Home shopping" time="122.148" classname="Test Cases/Check Help Home shopping" status="PASSED">
+         <system-out><![CDATA[2023-05-30 18:26:02 - [TEST_CASE][PASSED] - Test Cases/Check Help Home shopping: Test Cases/Check Help Home shopping
+
+2023-05-30 18:26:02 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Help Page Check"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/Help Page Check' successfully
+
+2023-05-30 18:26:03 - [TEST_CASE][PASSED] - Test Cases/Help Page Check: Test Cases/Help Page Check
+
+2023-05-30 18:26:03 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Dana Home page"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/Dana Home page' successfully
+
+2023-05-30 18:26:03 - [TEST_CASE][PASSED] - Test Cases/Dana Home page: Test Cases/Dana Home page
+
+2023-05-30 18:26:03 - [TEST_STEP][PASSED] - openBrowser("https://www.dana.id/"): Browser is opened with url: 'https://www.dana.id/'
+
+2023-05-30 18:26:04 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.dana.id/'
+
+2023-05-30 18:26:04 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Dana Home page' successfully
+
+2023-05-30 18:26:04 - [TEST_STEP][PASSED] - click(findTestObject("Help Page/a_Pusat Bantuan")): Object: 'Object Repository/Help Page/a_Pusat Bantuan' is clicked on
+
+2023-05-30 18:26:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Help Page/a_Pusat Bantuan' is clicked on
+
+2023-05-30 18:26:34 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("Help Page/div_Help Body"), 0): Scroll to object 'Object Repository/Help Page/div_Help Body' successfully
+
+2023-05-30 18:26:34 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-05-30 18:27:04 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Help Page/div_Help Body' successfully
+
+2023-05-30 18:27:04 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Help Page Check' successfully
+
+2023-05-30 18:27:04 - [TEST_STEP][PASSED] - click(findTestObject("Help Page/a_Loyalti")): Object: 'Object Repository/Help Page/a_Loyalti' is clicked on
+
+2023-05-30 18:27:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Help Page/a_Loyalti' is clicked on
+
+2023-05-30 18:27:34 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Help Page/span_help_perservice"), "LOYALTI"): Actual text and expected text of test object 'Object Repository/Help Page/span_help_perservice' are matched.
+
+2023-05-30 18:28:04 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Help Page/span_help_perservice' are matched.]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Check Help AReward" time="95.364" classname="Test Cases/Check Help AReward" status="FAILED">
+         <failure type="FAILED" message="Test Cases/Check Help AReward FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Call Test Case 'Test Cases/Help Page Check' failed
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:63)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.call(CallTestCaseKeyword.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:75)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.callTestCase(CallTestCaseKeyword.groovy:81)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.execute(CallTestCaseKeyword.groovy:44)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.keyword.BuiltinKeywords.callTestCase(BuiltinKeywords.groovy:334)
+	at Check Help AReward.run(Check Help AReward:20)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1685445077666.run(TempTestSuite1685445077666.groovy:36)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Unable to scroll to object 'Object Repository/Help Page/div_Help Body'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword.scrollToElement(ScrollToElementKeyword.groovy:88)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword.execute(ScrollToElementKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.scrollToElement(WebUiBuiltInKeywords.groovy:4061)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$scrollToElement$1.call(Unknown Source)
+	at Help Page Check.run(Help Page Check:24)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseMain.runTestCase(TestCaseMain.java:144)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:59)
+	... 23 more
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Help Page/div_Help Body' located by '//div[@id='__layout']/div/section[2]/div' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1376)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword$_scrollToElement_closure1.doCall(ScrollToElementKeyword.groovy:79)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword$_scrollToElement_closure1.call(ScrollToElementKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 38 more
+"/>
+         <system-out><![CDATA[2023-05-30 18:34:00 - [TEST_CASE][FAILED] - Test Cases/Check Help AReward: Test Cases/Check Help AReward FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Call Test Case 'Test Cases/Help Page Check' failed
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:63)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.call(CallTestCaseKeyword.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:75)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.callTestCase(CallTestCaseKeyword.groovy:81)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.execute(CallTestCaseKeyword.groovy:44)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.keyword.BuiltinKeywords.callTestCase(BuiltinKeywords.groovy:334)
+	at Check Help AReward.run(Check Help AReward:20)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1685445077666.run(TempTestSuite1685445077666.groovy:36)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Unable to scroll to object 'Object Repository/Help Page/div_Help Body'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword.scrollToElement(ScrollToElementKeyword.groovy:88)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword.execute(ScrollToElementKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.scrollToElement(WebUiBuiltInKeywords.groovy:4061)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$scrollToElement$1.call(Unknown Source)
+	at Help Page Check.run(Help Page Check:24)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseMain.runTestCase(TestCaseMain.java:144)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:59)
+	... 23 more
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Help Page/div_Help Body' located by '//div[@id='__layout']/div/section[2]/div' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1376)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword$_scrollToElement_closure1.doCall(ScrollToElementKeyword.groovy:79)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword$_scrollToElement_closure1.call(ScrollToElementKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 38 more
+
+
+2023-05-30 18:34:00 - [TEST_STEP][FAILED] - callTestCase(findTestCase("Help Page Check"), [:], STOP_ON_FAILURE): Unable to call Test Case 'Test Cases/Help Page Check' (Root cause: com.kms.katalon.core.exception.StepFailedException: Call Test Case 'Test Cases/Help Page Check' failed
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:63)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.call(CallTestCaseKeyword.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:75)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.callTestCase(CallTestCaseKeyword.groovy:81)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.execute(CallTestCaseKeyword.groovy:44)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.keyword.BuiltinKeywords.callTestCase(BuiltinKeywords.groovy:334)
+	at Check Help AReward.run(Check Help AReward:20)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1685445077666.run(TempTestSuite1685445077666.groovy:36)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Unable to scroll to object 'Object Repository/Help Page/div_Help Body'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword.scrollToElement(ScrollToElementKeyword.groovy:88)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword.execute(ScrollToElementKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.scrollToElement(WebUiBuiltInKeywords.groovy:4061)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$scrollToElement$1.call(Unknown Source)
+	at Help Page Check.run(Help Page Check:24)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseMain.runTestCase(TestCaseMain.java:144)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:59)
+	... 23 more
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Help Page/div_Help Body' located by '//div[@id='__layout']/div/section[2]/div' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1376)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword$_scrollToElement_closure1.doCall(ScrollToElementKeyword.groovy:79)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword$_scrollToElement_closure1.call(ScrollToElementKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 38 more
+)
+
+2023-05-30 18:34:00 - [TEST_CASE][FAILED] - Test Cases/Help Page Check: Test Cases/Help Page Check FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to scroll to object 'Object Repository/Help Page/div_Help Body'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword.scrollToElement(ScrollToElementKeyword.groovy:88)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword.execute(ScrollToElementKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.scrollToElement(WebUiBuiltInKeywords.groovy:4061)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$scrollToElement$1.call(Unknown Source)
+	at Help Page Check.run(Help Page Check:24)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseMain.runTestCase(TestCaseMain.java:144)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:59)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.call(CallTestCaseKeyword.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:75)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.callTestCase(CallTestCaseKeyword.groovy:81)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.execute(CallTestCaseKeyword.groovy:44)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.keyword.BuiltinKeywords.callTestCase(BuiltinKeywords.groovy:334)
+	at Check Help AReward.run(Check Help AReward:20)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1685445077666.run(TempTestSuite1685445077666.groovy:36)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Help Page/div_Help Body' located by '//div[@id='__layout']/div/section[2]/div' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1376)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword$_scrollToElement_closure1.doCall(ScrollToElementKeyword.groovy:79)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword$_scrollToElement_closure1.call(ScrollToElementKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 38 more
+
+
+2023-05-30 18:34:00 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Dana Home page"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/Dana Home page' successfully
+
+2023-05-30 18:34:00 - [TEST_CASE][PASSED] - Test Cases/Dana Home page: Test Cases/Dana Home page
+
+2023-05-30 18:34:00 - [TEST_STEP][PASSED] - openBrowser("https://www.dana.id/"): Browser is opened with url: 'https://www.dana.id/'
+
+2023-05-30 18:34:04 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.dana.id/'
+
+2023-05-30 18:34:04 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Dana Home page' successfully
+
+2023-05-30 18:34:04 - [TEST_STEP][PASSED] - click(findTestObject("Help Page/a_Pusat Bantuan")): Object: 'Object Repository/Help Page/a_Pusat Bantuan' is clicked on
+
+2023-05-30 18:34:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Help Page/a_Pusat Bantuan' is clicked on
+
+2023-05-30 18:34:34 - [TEST_STEP][FAILED] - scrollToElement(findTestObject("Help Page/div_Help Body"), 0): Unable to scroll to object 'Object Repository/Help Page/div_Help Body' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to scroll to object 'Object Repository/Help Page/div_Help Body'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword.scrollToElement(ScrollToElementKeyword.groovy:88)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword.execute(ScrollToElementKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.scrollToElement(WebUiBuiltInKeywords.groovy:4061)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$scrollToElement$1.call(Unknown Source)
+	at Help Page Check.run(Help Page Check:24)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseMain.runTestCase(TestCaseMain.java:144)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:59)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.call(CallTestCaseKeyword.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:75)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.callTestCase(CallTestCaseKeyword.groovy:81)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.execute(CallTestCaseKeyword.groovy:44)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.keyword.BuiltinKeywords.callTestCase(BuiltinKeywords.groovy:334)
+	at Check Help AReward.run(Check Help AReward:20)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1685445077666.run(TempTestSuite1685445077666.groovy:36)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Help Page/div_Help Body' located by '//div[@id='__layout']/div/section[2]/div' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1376)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword$_scrollToElement_closure1.doCall(ScrollToElementKeyword.groovy:79)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword$_scrollToElement_closure1.call(ScrollToElementKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword.scrollToElement(ScrollToElementKeyword.groovy:88)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword.execute(ScrollToElementKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.scrollToElement(WebUiBuiltInKeywords.groovy:4061)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$scrollToElement$1.call(Unknown Source)
+	at Script1685444334630.run(Script1685444334630.groovy:24)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseMain.runTestCase(TestCaseMain.java:144)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:59)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.call(CallTestCaseKeyword.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:75)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.callTestCase(CallTestCaseKeyword.groovy:81)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.execute(CallTestCaseKeyword.groovy:44)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.keyword.BuiltinKeywords.callTestCase(BuiltinKeywords.groovy:334)
+	at Script1685443966274.run(Script1685443966274.groovy:20)
+	... 16 more
+)
+
+2023-05-30 18:34:34 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-05-30 18:35:34 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='__layout']/div/section[2]/div'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-05-30 18:35:35 - [MESSAGE][FAILED] - Unable to scroll to object 'Object Repository/Help Page/div_Help Body' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to scroll to object 'Object Repository/Help Page/div_Help Body'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword.scrollToElement(ScrollToElementKeyword.groovy:88)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword.execute(ScrollToElementKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.scrollToElement(WebUiBuiltInKeywords.groovy:4061)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$scrollToElement$1.call(Unknown Source)
+	at Help Page Check.run(Help Page Check:24)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseMain.runTestCase(TestCaseMain.java:144)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:59)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.call(CallTestCaseKeyword.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:75)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.callTestCase(CallTestCaseKeyword.groovy:81)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.execute(CallTestCaseKeyword.groovy:44)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.keyword.BuiltinKeywords.callTestCase(BuiltinKeywords.groovy:334)
+	at Check Help AReward.run(Check Help AReward:20)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1685445077666.run(TempTestSuite1685445077666.groovy:36)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Help Page/div_Help Body' located by '//div[@id='__layout']/div/section[2]/div' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1376)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword$_scrollToElement_closure1.doCall(ScrollToElementKeyword.groovy:79)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword$_scrollToElement_closure1.call(ScrollToElementKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword.scrollToElement(ScrollToElementKeyword.groovy:88)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword.execute(ScrollToElementKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.scrollToElement(WebUiBuiltInKeywords.groovy:4061)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$scrollToElement$1.call(Unknown Source)
+	at Script1685444334630.run(Script1685444334630.groovy:24)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseMain.runTestCase(TestCaseMain.java:144)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:59)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.call(CallTestCaseKeyword.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:75)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.callTestCase(CallTestCaseKeyword.groovy:81)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.execute(CallTestCaseKeyword.groovy:44)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.keyword.BuiltinKeywords.callTestCase(BuiltinKeywords.groovy:334)
+	at Script1685443966274.run(Script1685443966274.groovy:20)
+	... 16 more
+)
+[[ATTACHMENT|/Users/elizabethchan/Downloads/git/Katalon/Reports/20230530_181116/Check Help per Service/20230530_181117/1685446534616.png]]
+
+2023-05-30 18:35:35 - [MESSAGE][FAILED] - Unable to call Test Case 'Test Cases/Help Page Check' (Root cause: com.kms.katalon.core.exception.StepFailedException: Call Test Case 'Test Cases/Help Page Check' failed
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:63)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.call(CallTestCaseKeyword.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:75)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.callTestCase(CallTestCaseKeyword.groovy:81)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.execute(CallTestCaseKeyword.groovy:44)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.keyword.BuiltinKeywords.callTestCase(BuiltinKeywords.groovy:334)
+	at Check Help AReward.run(Check Help AReward:20)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1685445077666.run(TempTestSuite1685445077666.groovy:36)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Unable to scroll to object 'Object Repository/Help Page/div_Help Body'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword.scrollToElement(ScrollToElementKeyword.groovy:88)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword.execute(ScrollToElementKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.scrollToElement(WebUiBuiltInKeywords.groovy:4061)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$scrollToElement$1.call(Unknown Source)
+	at Help Page Check.run(Help Page Check:24)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseMain.runTestCase(TestCaseMain.java:144)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:59)
+	... 23 more
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Help Page/div_Help Body' located by '//div[@id='__layout']/div/section[2]/div' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1376)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword$_scrollToElement_closure1.doCall(ScrollToElementKeyword.groovy:79)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword$_scrollToElement_closure1.call(ScrollToElementKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 38 more
+)]]></system-out>
+         <system-err><![CDATA[2023-05-30 18:34:00 - [TEST_CASE][FAILED] - Test Cases/Check Help AReward: Test Cases/Check Help AReward FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Call Test Case 'Test Cases/Help Page Check' failed
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:63)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.call(CallTestCaseKeyword.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:75)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.callTestCase(CallTestCaseKeyword.groovy:81)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.execute(CallTestCaseKeyword.groovy:44)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.keyword.BuiltinKeywords.callTestCase(BuiltinKeywords.groovy:334)
+	at Check Help AReward.run(Check Help AReward:20)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1685445077666.run(TempTestSuite1685445077666.groovy:36)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Unable to scroll to object 'Object Repository/Help Page/div_Help Body'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword.scrollToElement(ScrollToElementKeyword.groovy:88)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword.execute(ScrollToElementKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.scrollToElement(WebUiBuiltInKeywords.groovy:4061)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$scrollToElement$1.call(Unknown Source)
+	at Help Page Check.run(Help Page Check:24)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseMain.runTestCase(TestCaseMain.java:144)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:59)
+	... 23 more
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Help Page/div_Help Body' located by '//div[@id='__layout']/div/section[2]/div' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1376)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword$_scrollToElement_closure1.doCall(ScrollToElementKeyword.groovy:79)
+	at com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword$_scrollToElement_closure1.call(ScrollToElementKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 38 more]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-05-30 18:11:19 - [TEST_SUITE][FAILED] - Check Help per Service: Test Cases/Check Help Loyalti FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Verify element text of test object 'Object Repository/Help Page/span_help_perservice' FAILED.
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.verifyElementText(VerifyElementTextKeyword.groovy:72)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.execute(VerifyElementTextKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementText(WebUiBuiltInKeywords.groovy:4749)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementText$2.call(Unknown Source)
+	at Check Help Loyalti.run(Check Help Loyalti:24)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1685445077666.run(TempTestSuite1685445077666.groovy:36)
+Caused by: com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Help Page/span_help_perservice' located by '//div[@id='__layout']/div/section[2]/div/div[2]/div/span[2]' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.doCall(VerifyElementTextKeyword.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.call(VerifyElementTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-out>
+      <system-err><![CDATA[2023-05-30 18:11:19 - [TEST_SUITE][FAILED] - Check Help per Service: Test Cases/Check Help Loyalti FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Verify element text of test object 'Object Repository/Help Page/span_help_perservice' FAILED.
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.verifyElementText(VerifyElementTextKeyword.groovy:72)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.execute(VerifyElementTextKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementText(WebUiBuiltInKeywords.groovy:4749)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementText$2.call(Unknown Source)
+	at Check Help Loyalti.run(Check Help Loyalti:24)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1685445077666.run(TempTestSuite1685445077666.groovy:36)
+Caused by: com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Help Page/span_help_perservice' located by '//div[@id='__layout']/div/section[2]/div/div[2]/div/span[2]' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.doCall(VerifyElementTextKeyword.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.call(VerifyElementTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+   </testsuite>
+</testsuites>

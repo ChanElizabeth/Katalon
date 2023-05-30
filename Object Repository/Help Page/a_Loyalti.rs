@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Loyalti</name>
+   <tag></tag>
+   <elementGuidId>a2392324-0746-4e5c-9f2c-275f052785a9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@href = '/help-center/loyalti' and (text() = ' 
+            Loyalti
+          ' or . = ' 
+            Loyalti
+          ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e2376dde-70c9-439c-af8c-d9eec237b007</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/help-center/loyalti</value>
+      <webElementGuid>56598dc7-7ce5-4627-9e49-580e1d5ec683</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sub-section__list</value>
+      <webElementGuid>06feff0f-233e-47e8-8d1b-957424e90b57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 
+            Loyalti
+          </value>
+      <webElementGuid>b96b0652-10ef-49bf-8628-d24351a89b8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;help-center&quot;]/section[@class=&quot;help-center__body&quot;]/div[@class=&quot;section__container help-center__body-container&quot;]/div[@class=&quot;help-center-index help-center__body-child&quot;]/div[@class=&quot;product&quot;]/div[@class=&quot;product__list&quot;]/div[@class=&quot;sub-section sub-section--active&quot;]/a[@class=&quot;sub-section__list&quot;]</value>
+      <webElementGuid>09e24edc-ee37-4f58-b2cc-c37c53a75d12</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/section[2]/div/div[2]/div/div/div[2]/a[2]</value>
+      <webElementGuid>2fe6c043-4e08-40fe-93bc-8dda6b5d6171</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delivery'])[1]/following::a[1]</value>
+      <webElementGuid>9ca4dbe2-3617-4c2c-a772-c0d0ad56c55b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daily'])[1]/following::a[2]</value>
+      <webElementGuid>e3e25014-e464-4b21-8f2a-3ef8d29e07bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DANA Deals'])[1]/preceding::a[1]</value>
+      <webElementGuid>f2f550e5-78d5-4f6b-88b3-1ade48587245</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/help-center/loyalti')]</value>
+      <webElementGuid>ce880ecb-996b-4250-aa2f-b3c195c0a542</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a[2]</value>
+      <webElementGuid>bf9ac422-4456-4a03-869c-74e34c79a511</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/help-center/loyalti' and (text() = ' 
+            Loyalti
+          ' or . = ' 
+            Loyalti
+          ')]</value>
+      <webElementGuid>f6967d59-8931-4315-ab47-d5e76ec82d6c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

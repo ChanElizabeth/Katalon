@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>search_resultArrow</name>
+   <tag></tag>
+   <elementGuidId>93659dee-09c1-4081-a3aa-4505ed2198e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/section[2]/div/div[2]/div/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.article-list__icon.lazyload.is-loaded</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>8aec03a3-3743-4b1c-a8a2-e090ba505262</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>arrow right icon</value>
+      <webElementGuid>5534c16b-c1f2-4d4f-855e-62c8a1f02974</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>article-list__icon lazyload is-loaded</value>
+      <webElementGuid>54319546-3ccb-4c97-bc03-ef45c7bc8b04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNSIgdmlld0JveD0iMCAwIDI0IDI1Ij4KICAgIDxnIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCI+CiAgICAgICAgPGcgZmlsbD0iI0E0QTRBNCI+CiAgICAgICAgICAgIDxnPgogICAgICAgICAgICAgICAgPGc+CiAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTUuNjUgOC4yNGMtLjQxOC0uMzU5LTEuMDUtLjMxLTEuNDEuMTEtLjM1OS40MTgtLjMxIDEuMDUuMTEgMS40MWw2Ljk5OCA2Yy4zNzQuMzIuOTI3LjMyIDEuMzAxIDBsNy4wMDItNmMuNDItLjM2LjQ2OC0uOTkxLjEwOC0xLjQxLS4zNTktLjQyLS45OS0uNDY5LTEuNDEtLjExTDEyIDEzLjY4NCA1LjY1IDguMjR6IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMTE5MyAtNTU5KSB0cmFuc2xhdGUoNTI5IDU1OCkgdHJhbnNsYXRlKDY2NCAxKSByb3RhdGUoLTkwIDEyIDEyKSIvPgogICAgICAgICAgICAgICAgPC9nPgogICAgICAgICAgICA8L2c+CiAgICAgICAgPC9nPgogICAgPC9nPgo8L3N2Zz4K</value>
+      <webElementGuid>b36be5b3-8c29-4881-93ac-74316455bfff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;help-center&quot;]/section[@class=&quot;help-center__body&quot;]/div[@class=&quot;section__container help-center__body-container&quot;]/div[@class=&quot;help-center-search help-center__body-child&quot;]/div[1]/a[@class=&quot;article-list&quot;]/img[@class=&quot;article-list__icon lazyload is-loaded&quot;]</value>
+      <webElementGuid>b5352dcf-7429-4c4e-9851-86196a654431</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/section[2]/div/div[2]/div/a/img</value>
+      <webElementGuid>2fd4e44f-5273-427a-aa22-2e76f3e8661e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='arrow right icon']</value>
+      <webElementGuid>06294d8b-1bb4-4964-a919-9a25c2fc609d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a/img</value>
+      <webElementGuid>57a1a833-c92b-46c5-9d87-ed2b1af6077b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'arrow right icon' and @src = 'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNSIgdmlld0JveD0iMCAwIDI0IDI1Ij4KICAgIDxnIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCI+CiAgICAgICAgPGcgZmlsbD0iI0E0QTRBNCI+CiAgICAgICAgICAgIDxnPgogICAgICAgICAgICAgICAgPGc+CiAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTUuNjUgOC4yNGMtLjQxOC0uMzU5LTEuMDUtLjMxLTEuNDEuMTEtLjM1OS40MTgtLjMxIDEuMDUuMTEgMS40MWw2Ljk5OCA2Yy4zNzQuMzIuOTI3LjMyIDEuMzAxIDBsNy4wMDItNmMuNDItLjM2LjQ2OC0uOTkxLjEwOC0xLjQxLS4zNTktLjQyLS45OS0uNDY5LTEuNDEtLjExTDEyIDEzLjY4NCA1LjY1IDguMjR6IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMTE5MyAtNTU5KSB0cmFuc2xhdGUoNTI5IDU1OCkgdHJhbnNsYXRlKDY2NCAxKSByb3RhdGUoLTkwIDEyIDEyKSIvPgogICAgICAgICAgICAgICAgPC9nPgogICAgICAgICAgICA8L2c+CiAgICAgICAgPC9nPgogICAgPC9nPgo8L3N2Zz4K']</value>
+      <webElementGuid>69bb65ba-e5c2-47dd-ba18-2d0b477f61f0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

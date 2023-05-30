@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_googlePlay</name>
+   <tag></tag>
+   <elementGuidId>01dbc5ec-f134-402e-848f-0763d548171a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/section/div/div/div/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.download__button > a > img.lazyload.is-loaded</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>a38e5401-32ed-4423-9ceb-2e17f1294cf4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Get it on Google Play</value>
+      <webElementGuid>917d3a47-8ec3-4e46-a322-8dd2d9897868</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lazyload is-loaded</value>
+      <webElementGuid>f68eb880-71c1-4939-9f48-c36e5e78039e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/_nuxt/img/download-google-play.0796581.png</value>
+      <webElementGuid>90b6e203-c85b-4d23-bda5-d4dc06c3e5de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/section[@class=&quot;download&quot;]/div[@class=&quot;section__container&quot;]/div[@class=&quot;download__text&quot;]/div[@class=&quot;download__button&quot;]/a[1]/img[@class=&quot;lazyload is-loaded&quot;]</value>
+      <webElementGuid>67494f43-2af7-4479-bd41-5be1ff502a4a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/section/div/div/div/a/img</value>
+      <webElementGuid>aa1af4ba-f4f3-4787-abdc-f680e5ee1ecf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Get it on Google Play']</value>
+      <webElementGuid>793c7277-6418-44ce-8ecb-c7310046b9c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/a/img</value>
+      <webElementGuid>7982eaae-a925-48e8-86d6-16fbede4c7b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Get it on Google Play' and @src = '/_nuxt/img/download-google-play.0796581.png']</value>
+      <webElementGuid>1fb4812f-c1d8-4c50-8f23-2e11296432de</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
