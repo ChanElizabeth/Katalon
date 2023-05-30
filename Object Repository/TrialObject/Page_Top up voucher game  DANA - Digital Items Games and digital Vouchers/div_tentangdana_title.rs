@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_tentangdana_title</name>
+   <tag></tag>
+   <elementGuidId>0919dbc7-ec60-4394-bf06-5c4dad2b99ef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div/section/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.swiper-pagination.swiper-pagination-clickable.swiper-pagination-bullets</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f1b050c3-fccc-49d6-aab4-4c29b9c653c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>swiper-pagination swiper-pagination-clickable swiper-pagination-bullets</value>
+      <webElementGuid>df47fe91-eb57-41c6-b176-847230a49121</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/div[@class=&quot;promo-page&quot;]/section[@class=&quot;promo-hero&quot;]/div[@class=&quot;swiper-container swiper-container-fade swiper-container-initialized swiper-container-horizontal&quot;]/div[@class=&quot;swiper-pagination swiper-pagination-clickable swiper-pagination-bullets&quot;]</value>
+      <webElementGuid>606f0397-1a13-4e85-a68a-2795963c6a2c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div/section/div/div[2]</value>
+      <webElementGuid>421b005e-c62b-4046-9810-9080019f2968</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download'])[1]/following::div[28]</value>
+      <webElementGuid>4b17dd15-bdb8-43cd-a50d-b25473bfa9bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ID'])[1]/following::div[28]</value>
+      <webElementGuid>64437e70-5b40-4608-8c49-5baef5948cf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[1]/preceding::div[3]</value>
+      <webElementGuid>bbe035d0-fe31-4bfb-948c-fcb2a9c2de43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Food'])[1]/preceding::div[4]</value>
+      <webElementGuid>2de8eb5a-870d-4863-946f-fa674f49325c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div[2]</value>
+      <webElementGuid>64a6ede5-d39f-4c9d-b0bd-12071611632f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div/div/div</value>
+      <webElementGuid>e7197991-2d37-43e7-bf46-8091532f6658</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div</value>
+      <webElementGuid>12ee7a15-fa7b-4c0b-a508-db892007e81b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

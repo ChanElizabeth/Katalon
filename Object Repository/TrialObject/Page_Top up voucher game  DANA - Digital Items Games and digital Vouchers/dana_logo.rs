@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dana_logo</name>
+   <tag></tag>
+   <elementGuidId>e650f15f-a715-4011-b1b3-96fb0f950961</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt=&quot;DANA's logo&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.navbar__logo.lazyload.is-loaded</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>3cab816b-7bcb-4bd0-bdfa-458a763ccf68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>DANA's logo</value>
+      <webElementGuid>85dcc9ea-0c3b-4e86-ba03-c87c33cf452d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>navbar__logo lazyload is-loaded</value>
+      <webElementGuid>539dab32-0746-47f8-b34d-25db81807fb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/_nuxt/img/dana-logo.fe46647.png</value>
+      <webElementGuid>705aa234-1c4b-46a3-a00c-126f981ee83d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/nav[@class=&quot;navbar&quot;]/div[@class=&quot;navbar__content&quot;]/div[@class=&quot;navbar__left&quot;]/a[@class=&quot;navbar__menu nuxt-link-exact-active nuxt-link-active&quot;]/img[@class=&quot;navbar__logo lazyload is-loaded&quot;]</value>
+      <webElementGuid>750a39c4-c8df-4f04-ac31-3c90a1582ee1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/nav/div/div/a/img</value>
+      <webElementGuid>d6bb0c41-843c-49a0-9ccf-9d97ddac2b5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt=&quot;DANA's logo&quot;]</value>
+      <webElementGuid>94e24704-4cf0-4995-8951-8cb5af3b8cde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>4e544612-b180-490b-9cf0-4c715193b5f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = concat(&quot;DANA&quot; , &quot;'&quot; , &quot;s logo&quot;) and @src = '/_nuxt/img/dana-logo.fe46647.png']</value>
+      <webElementGuid>a9cf1450-6825-4eb1-a31b-a8455bc4606f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

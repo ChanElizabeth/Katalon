@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>paragraph_aboutdana</name>
+   <tag></tag>
+   <elementGuidId>801f4836-95e4-4a29-a3ba-f0e32f21b57c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div/div[2]/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>dc96ab36-4373-48e2-8dbd-0a93cac94764</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DANA adalah dompet digital Indonesia yang didesain untuk menjadikan setiap transaksi nontunai dan nonkartu secara digital, baik online maupun offline  dapat berjalan dengan cepat, praktis dan tetap terjamin keamanannya.</value>
+      <webElementGuid>1b64a4ef-a187-4847-866c-511a09a5d9ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/div[@class=&quot;about-page&quot;]/div[@class=&quot;about-body__container&quot;]/p[1]</value>
+      <webElementGuid>b37aed81-950a-4d44-92cf-54fa40879d4e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div/div[2]/p</value>
+      <webElementGuid>3f9db94a-cff0-4586-ba4c-a0339c7625a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tentang DANA'])[1]/following::p[1]</value>
+      <webElementGuid>5fb5a176-ac35-4dc2-b158-0deaa682224b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download'])[1]/following::p[1]</value>
+      <webElementGuid>39a7e005-9b87-44ac-9abf-7f6ee4f6928b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='platform'])[1]/preceding::p[1]</value>
+      <webElementGuid>ada39dd7-ad35-47d0-887d-693dd8b888e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kembali ke Atas'])[1]/preceding::p[4]</value>
+      <webElementGuid>20396063-9350-4df8-a901-42595989e0bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='DANA adalah dompet digital Indonesia yang didesain untuk menjadikan setiap transaksi nontunai dan nonkartu secara digital, baik online maupun offline  dapat berjalan dengan cepat, praktis dan tetap terjamin keamanannya.']/parent::*</value>
+      <webElementGuid>4b8fe5e4-da99-4ddb-85f7-bc6c1d93f040</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>7f5953ec-c2b8-4018-a27a-77472bcad524</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'DANA adalah dompet digital Indonesia yang didesain untuk menjadikan setiap transaksi nontunai dan nonkartu secara digital, baik online maupun offline  dapat berjalan dengan cepat, praktis dan tetap terjamin keamanannya.' or . = 'DANA adalah dompet digital Indonesia yang didesain untuk menjadikan setiap transaksi nontunai dan nonkartu secara digital, baik online maupun offline  dapat berjalan dengan cepat, praktis dan tetap terjamin keamanannya.')]</value>
+      <webElementGuid>b980dc87-398d-4375-8578-e9082e742d86</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

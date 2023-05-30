@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>title_career</name>
+   <tag></tag>
+   <elementGuidId>56ef3974-4403-4173-9164-d1ef5db2a46d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div/section/div/div/div/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1.career-hero__title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>b15566c8-c62b-4b3e-8ed7-c78088bab4b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>career-hero__title</value>
+      <webElementGuid>eab2af9b-a9e0-46ae-9469-b2438209f1dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ini kesempatanmu.Buatlah perubahanyang berarti.</value>
+      <webElementGuid>145fd434-bfde-4426-8366-0446367743ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/div[@class=&quot;career-page&quot;]/section[@class=&quot;hero career-hero&quot;]/div[@class=&quot;section__container&quot;]/div[@class=&quot;section__content&quot;]/div[@class=&quot;career-hero__content&quot;]/h1[@class=&quot;career-hero__title&quot;]</value>
+      <webElementGuid>91584623-5c3a-47c4-baef-9abaae71e313</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div/section/div/div/div/h1</value>
+      <webElementGuid>fbfd4e1c-f710-4363-87b4-e3f491b26734</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download'])[1]/following::h1[1]</value>
+      <webElementGuid>261917bb-ad54-4e30-814c-2424510e3fa9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ID'])[1]/following::h1[1]</value>
+      <webElementGuid>ba66ffe6-d704-46d6-adcf-77c37634167a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cari Pekerjaan'])[1]/preceding::h1[1]</value>
+      <webElementGuid>d0bbd823-3d43-42d4-9d43-895394ee09b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Awal Baru'])[1]/preceding::h1[1]</value>
+      <webElementGuid>bd2b1817-7c9c-42de-8a37-f306f99c203c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ini kesempatanmu.']/parent::*</value>
+      <webElementGuid>ca83940c-ba50-42b8-a989-385475906ff7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>c3767f02-b5d5-4045-8bc3-2b8f6a3d8019</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Ini kesempatanmu.Buatlah perubahanyang berarti.' or . = 'Ini kesempatanmu.Buatlah perubahanyang berarti.')]</value>
+      <webElementGuid>58bc852a-dce3-42b7-b52f-f1eb4aa55a9e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

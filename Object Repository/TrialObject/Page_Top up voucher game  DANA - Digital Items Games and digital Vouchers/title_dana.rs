@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>title_dana</name>
+   <tag></tag>
+   <elementGuidId>466be860-d05e-4f01-bcfd-7439a8c4a1a9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h1[(text() = 'Semua transaksi bisa di satu dompet digital ' or . = 'Semua transaksi bisa di satu dompet digital ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1.home-hero__title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>babbbe06-403d-48cc-88b1-3a836648c3e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>home-hero__title</value>
+      <webElementGuid>d24fa473-c07a-424a-ad17-bf569010fad4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Semua transaksi bisa di satu dompet digital </value>
+      <webElementGuid>8d40ead4-5ab5-40f5-a027-cfde99f6fe18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/div[@class=&quot;home&quot;]/section[@class=&quot;home-hero&quot;]/div[1]/div[@class=&quot;home-hero__content&quot;]/div[@class=&quot;home-hero__content__text&quot;]/h1[@class=&quot;home-hero__title&quot;]</value>
+      <webElementGuid>1a75bf31-fc56-4d26-8c26-8e5e8fbeb521</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div/section/div/div[2]/div[2]/h1</value>
+      <webElementGuid>dd6734bf-8def-4f1d-817d-102ef035f3f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download'])[1]/following::h1[1]</value>
+      <webElementGuid>0374ee65-62e2-4e6c-a2bc-46d3c3d72f0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ID'])[1]/following::h1[1]</value>
+      <webElementGuid>d56dc200-15c1-4ffa-af64-2913612d7b23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tentang DANA'])[1]/preceding::h1[1]</value>
+      <webElementGuid>5db18f07-fcff-402c-8273-edbfc2cb784a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Temukan Caranya'])[1]/preceding::h1[1]</value>
+      <webElementGuid>41590cfb-c0f1-42f6-9b4d-ad3ecce8cf1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Semua transaksi bisa di satu dompet digital']/parent::*</value>
+      <webElementGuid>e258915a-2aea-4053-ab4f-d6fbb02224d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>e5b7f0d2-b26e-4587-bd8c-f4326e608d7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Semua transaksi bisa di satu dompet digital ' or . = 'Semua transaksi bisa di satu dompet digital ')]</value>
+      <webElementGuid>527ee048-994c-401f-a14e-9ae850edabf6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
