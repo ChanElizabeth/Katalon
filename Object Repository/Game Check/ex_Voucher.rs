@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ex_Voucher</name>
+   <tag></tag>
+   <elementGuidId>1c5c7bf4-2995-4bea-b17a-9e192ccb9607</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/section/div/div[6]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7856176d-e082-4ec6-8f6e-c6763b64d9ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>f-card__content</value>
+      <webElementGuid>871b1d5f-853c-470a-a0c4-c08c5d18182a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 
+        Tinder
+      </value>
+      <webElementGuid>84ce50a9-95a6-4d88-8b4c-1531f8dac87f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;item-digital&quot;]/div[@class=&quot;item-digital-service f-flex f-flex-column l-desktop&quot;]/section[1]/div[@class=&quot;item-digital-grid desktop-view&quot;]/div[@class=&quot;item-digital-card f-flex f-justify-center desktop-view&quot;]/div[@class=&quot;f-card&quot;]/div[@class=&quot;f-card__content&quot;]</value>
+      <webElementGuid>7dd962b9-d514-4112-960f-22eb6acf15d9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/section/div/div[6]/div/div</value>
+      <webElementGuid>cbdc67ef-fc5d-4fe6-bc64-5c712085f7b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UPGC (A+)'])[1]/following::div[3]</value>
+      <webElementGuid>a438afa9-3c93-4b14-b271-aad490dea77c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UniPin Voucher'])[1]/following::div[8]</value>
+      <webElementGuid>5838cec2-1d35-43b2-9fb2-6e2b4c6cae5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Minecraft'])[1]/preceding::div[4]</value>
+      <webElementGuid>c5372032-baf8-4a0d-8e67-fb9c9d7363ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div</value>
+      <webElementGuid>55e5e2b5-9bb2-4058-b7f6-74cdf2c52527</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' 
+        Tinder
+      ' or . = ' 
+        Tinder
+      ')]</value>
+      <webElementGuid>71033935-e24a-4519-89bd-8bf060fad9ae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

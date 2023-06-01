@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_VIEW ALL_Voucher</name>
+   <tag></tag>
+   <elementGuidId>6f3394b3-1941-46fa-8395-f7e8ada27323</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f445ca53-4624-4f8f-9d5f-7f7413130c70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>cdbe5e6d-4293-4472-9f98-6da4b88c6ee4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>f-btn f-btn-primary f-btn-large</value>
+      <webElementGuid>86a4e8d4-ebe3-4903-8454-d100d0f596c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>VIEW ALL</value>
+      <webElementGuid>fde11f72-f20e-42b9-b16b-5d12c3dd220c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;item-digital&quot;]/div[@class=&quot;item-digital-home&quot;]/div[@class=&quot;item-digital-home__content l-desktop&quot;]/div[@class=&quot;pb-16&quot;]/div[@class=&quot;item-digital-category&quot;]/section[@class=&quot;item-digital-category__title f-flex f-justify-space-between f-align-center pb-24 l-desktop&quot;]/div[@class=&quot;item-digital-category__button&quot;]/button[@class=&quot;f-btn f-btn-primary f-btn-large&quot;]</value>
+      <webElementGuid>f273f578-7313-4b26-8256-01ffc0aa718e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[3]</value>
+      <webElementGuid>6ea1ea5a-cc7a-4b94-8600-4394e1e1da66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div[4]/div/section/div[2]/button</value>
+      <webElementGuid>d558efaa-61ee-44cd-b639-1dd36e87ab8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Digital Voucher'])[2]/following::button[1]</value>
+      <webElementGuid>4669c370-7d13-4417-9305-0131fafc77f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Genshin Impact'])[1]/following::button[1]</value>
+      <webElementGuid>8fb4b378-9824-42eb-aaa1-f5d944877acd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kode Voucher Google Play'])[1]/preceding::button[1]</value>
+      <webElementGuid>8ec6c835-d876-47cc-a163-63f79dbda3c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Google Play (A+)'])[1]/preceding::button[1]</value>
+      <webElementGuid>22b23c5d-9c7e-459f-8d1b-7dcd0786be63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/section/div[2]/button</value>
+      <webElementGuid>4808299b-42d0-4e53-b417-bab812e53425</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'VIEW ALL' or . = 'VIEW ALL')]</value>
+      <webElementGuid>b8254224-1d87-49dc-8886-e79581d08cdf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

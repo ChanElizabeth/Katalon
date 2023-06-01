@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ex_game</name>
+   <tag></tag>
+   <elementGuidId>78397f33-e889-479b-ab13-6de62413bdb1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/section/div/div[11]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d9ec089c-2fa6-4639-b3cc-a25f2b6f409f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>f-card__content</value>
+      <webElementGuid>f7ef15d7-01f6-4cc1-adb0-65949c539c9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 
+        Valorant
+      </value>
+      <webElementGuid>1616f138-af88-4051-a24f-0f7a7e29b573</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;item-digital&quot;]/div[@class=&quot;item-digital-service f-flex f-flex-column l-desktop&quot;]/section[1]/div[@class=&quot;item-digital-grid desktop-view&quot;]/div[@class=&quot;item-digital-card f-flex f-justify-center desktop-view&quot;]/div[@class=&quot;f-card&quot;]/div[@class=&quot;f-card__content&quot;]</value>
+      <webElementGuid>eff46a3e-de55-4cbf-8328-81fc759fcb58</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/section/div/div[11]/div/div</value>
+      <webElementGuid>24ee68db-856c-4058-848c-85dcd6d9b019</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='League Of Legends Wild Rift'])[1]/following::div[3]</value>
+      <webElementGuid>147e011f-f37c-4c7d-816f-6624fa1e4467</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mobapay'])[1]/following::div[8]</value>
+      <webElementGuid>c7695a00-5d63-445d-883f-65c030215950</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Top Eleven'])[1]/preceding::div[4]</value>
+      <webElementGuid>723a4fae-75a2-4c61-b5a6-75cdd42e5b97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div/div</value>
+      <webElementGuid>a37a865d-13af-410a-921a-c93d6f978c5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' 
+        Valorant
+      ' or . = ' 
+        Valorant
+      ')]</value>
+      <webElementGuid>313a9694-f005-4ec9-bbbd-6dadf0bbedab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

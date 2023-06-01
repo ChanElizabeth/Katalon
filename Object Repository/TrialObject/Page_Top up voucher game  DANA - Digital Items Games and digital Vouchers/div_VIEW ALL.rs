@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>81a7bf47-efa4-4171-a3c5-fe729328a7b1</webElementGuid>
+      <webElementGuid>445a1f89-e251-4fd9-b9bd-f0cc5950b48a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>news-event-category__button f-border f-border-solid f-rounded-8 f-border-blue-50 px-32 py-4</value>
-      <webElementGuid>127d4ef9-57fc-439f-95de-9fa8e71cf791</webElementGuid>
+      <webElementGuid>f578f7ba-8ef2-49d2-ae2b-6ddb9a36378f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <type>Main</type>
       <value>
         VIEW ALL</value>
-      <webElementGuid>4ed17504-a3cb-4524-9d0f-f00bd78d70d9</webElementGuid>
+      <webElementGuid>0df13c77-c061-4acf-bd49-8830e589442e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;item-digital&quot;]/section[1]/div[@class=&quot;news-event-home l-desktop&quot;]/div[@class=&quot;news-event-content&quot;]/div[1]/div[@class=&quot;pt-28 pb-32&quot;]/div[@class=&quot;news-event-category&quot;]/section[@class=&quot;news-event-category__title f-flex f-justify-space-between f-align-center pb-24 l-desktop&quot;]/div[@class=&quot;news-event-category__button f-border f-border-solid f-rounded-8 f-border-blue-50 px-32 py-4&quot;]</value>
-      <webElementGuid>3ea29eba-e534-4b90-93a6-5a1612ea89b1</webElementGuid>
+      <webElementGuid>562e8ad7-ed28-477b-a5a0-25621f3758b2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/section/div/div[2]/div/div/div/section/div[2]</value>
-      <webElementGuid>f5911c5b-5915-438e-a022-ffc3696b3516</webElementGuid>
+      <webElementGuid>098945b8-9b73-4064-b0d8-fbe92405355b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Event'])[1]/following::div[1]</value>
-      <webElementGuid>edfb07d2-4879-404a-98de-664aaa79a8ee</webElementGuid>
+      <webElementGuid>2e6dc6ab-e189-4f47-b821-5e72002b620d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='VIEW MORE'])[5]/following::div[7]</value>
-      <webElementGuid>36f8239b-3332-43fd-9cc9-a9c5f1432210</webElementGuid>
+      <webElementGuid>19f7569f-2e6a-4c0c-8014-084f50c51274</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tips Fast Hand Biar Makin Sat-Set Saat Ngegame!'])[2]/preceding::div[4]</value>
-      <webElementGuid>d16ce176-e0c6-4990-8c21-116312e3b7be</webElementGuid>
+      <webElementGuid>6abac581-d2ff-4829-a505-54ce8bb45ceb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//section/div[2]</value>
-      <webElementGuid>27963cc0-7fa3-48da-940e-3988c5e50fde</webElementGuid>
+      <webElementGuid>f3799a0f-e129-4ad1-83a9-9f4c1da80b7c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,6 +97,6 @@
       <value>//div[(text() = '
         VIEW ALL' or . = '
         VIEW ALL')]</value>
-      <webElementGuid>c6a3dfc2-6dfe-4819-a06a-b970ab22f6ab</webElementGuid>
+      <webElementGuid>dc7dc5a9-5727-4eb2-9a9c-1bad04cc0b34</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

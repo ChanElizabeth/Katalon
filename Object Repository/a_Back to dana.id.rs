@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Back to dana.id</name>
+   <tag></tag>
+   <elementGuidId>33526487-376b-40e0-bb96-a07298f78cb2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div/div/a[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.f-title.title-16.text-white.pl-16.footer__top__right__link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e39a1a56-2653-47bf-b0e4-38ec6a853002</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://dana.id</value>
+      <webElementGuid>ccc35837-4b5d-49a3-bdac-6c1de4a4c2c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>f-title title-16 text-white pl-16 footer__top__right__link</value>
+      <webElementGuid>65795e10-bc8d-41f0-8e87-6d78b1ab5093</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Back to dana.id</value>
+      <webElementGuid>534752d5-3585-41cc-9928-aaa1f00109a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;item-digital&quot;]/div[@class=&quot;footer&quot;]/div[@class=&quot;footer__top f-flex f-justify-space-between f-align-center pb-20&quot;]/div[@class=&quot;footer__top__right&quot;]/a[@class=&quot;f-title title-16 text-white pl-16 footer__top__right__link&quot;]</value>
+      <webElementGuid>2f62812a-9523-4b04-9f21-fadf62ed474a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div/div/a[3]</value>
+      <webElementGuid>c2479a32-af55-4f12-a1da-83a7095748a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Back to dana.id')]</value>
+      <webElementGuid>fb358e7b-d9f3-4c8d-aa1f-e34e3ce2824e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Digital Voucher'])[2]/following::a[1]</value>
+      <webElementGuid>a76b54e5-84c9-4102-83c7-908ecb87c94b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Top Up Games'])[1]/following::a[2]</value>
+      <webElementGuid>d177ae49-f1cc-4b64-9b4b-9c93bc671cc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© 2020 DANA - PT. Espay Debit Indonesia Koe. All Rights Reserved.'])[1]/preceding::a[1]</value>
+      <webElementGuid>fc7d4133-171d-421f-94de-4d14e0dae84e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::a[5]</value>
+      <webElementGuid>675a51e4-d19b-44df-9ecc-8d669d29affd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Back to dana.id']/parent::*</value>
+      <webElementGuid>9e9a7207-3cdd-469c-8275-c68435d37bbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://dana.id')]</value>
+      <webElementGuid>86e11839-a340-4360-a8d4-17fa9cfdb18a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]</value>
+      <webElementGuid>047c62de-c4eb-470c-8a93-09be20826074</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://dana.id' and (text() = 'Back to dana.id' or . = 'Back to dana.id')]</value>
+      <webElementGuid>df17b72b-064f-4f00-ac96-ad3b2621755a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
