@@ -6,12 +6,13 @@
    <elementGuidId>00a3c25e-ed41-41e2-a9e6-bedb7e7616a5</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(//button[@type='button'])[4]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[2]
+</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>3fd849ba-d1d1-42cf-ba90-0cf554432913</webElementGuid>
+      <webElementGuid>1b3401ff-080e-4591-a91e-c5cc0392280b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>9a9f965e-6edf-429e-85d5-b2f3c0203717</webElementGuid>
+      <webElementGuid>971e6f1f-9be8-409e-81c5-c322fb4d04a0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>f-btn f-btn-primary f-btn-large</value>
-      <webElementGuid>2dde1302-0e79-4dc4-ae7e-61af3be652ef</webElementGuid>
+      <webElementGuid>8a26f03b-7ba1-4efc-84c9-9f09f1f52194</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +47,7 @@
       <name>text</name>
       <type>Main</type>
       <value>VIEW ALL</value>
-      <webElementGuid>8481d025-c5b9-46ec-8650-79d6cf66dbbe</webElementGuid>
+      <webElementGuid>c53a1718-6417-4eff-ae99-c3916c27de1b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;item-digital&quot;]/div[@class=&quot;item-digital-home&quot;]/div[@class=&quot;item-digital-home__content l-desktop&quot;]/div[@class=&quot;pb-16&quot;]/div[@class=&quot;item-digital-category&quot;]/section[@class=&quot;item-digital-category__title f-flex f-justify-space-between f-align-center pb-24 l-desktop&quot;]/div[@class=&quot;item-digital-category__button&quot;]/button[@class=&quot;f-btn f-btn-primary f-btn-large&quot;]</value>
-      <webElementGuid>9415ed34-3a23-44b7-a60f-450c84ac1dc6</webElementGuid>
+      <webElementGuid>4404b0b1-f822-4450-9e54-3925cfda90d7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +63,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[4]</value>
-      <webElementGuid>9f54aa88-d4ed-40d6-977a-dd36c1fd4b8d</webElementGuid>
+      <webElementGuid>8d3c02e8-e091-4afb-8ee9-3391ce648c57</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +71,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div[2]/div[2]/div[5]/div/section/div[2]/button</value>
-      <webElementGuid>66d18d48-6071-4a79-b238-463451c56426</webElementGuid>
+      <webElementGuid>65d0252e-824f-4d28-badc-c7ed7d1fb3cf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='News &amp; Events'])[2]/following::button[1]</value>
-      <webElementGuid>1470e2df-7be4-448f-bcaa-0614aaa57076</webElementGuid>
+      <webElementGuid>f8b5770c-ae42-4168-b432-17b5f0bde299</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='UniPin Voucher'])[1]/following::button[1]</value>
-      <webElementGuid>b310ba2a-072d-49a6-be32-74e2b4432f25</webElementGuid>
+      <webElementGuid>222030f5-bf83-4aef-9477-0519e01a03a6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tips Fast Hand Biar Makin Sat-Set Saat Ngegame!'])[1]/preceding::button[1]</value>
-      <webElementGuid>aa5c5481-c905-4c48-8c01-6b18cedc24dd</webElementGuid>
+      <webElementGuid>2e07e105-112f-42c1-82a2-0f00a0fd0c60</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ada Nintendo Switch &amp; iPad Mini Gratis Buatmu! Cek Cara Dapetinnya'])[1]/preceding::button[1]</value>
-      <webElementGuid>2a6569c5-bd25-41f7-9636-db8a0cd87818</webElementGuid>
+      <webElementGuid>3c856e0f-a576-4b8d-968b-d5818af71604</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +111,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/div/section/div[2]/button</value>
-      <webElementGuid>54fbbe02-742a-490f-9ef8-a179fc094239</webElementGuid>
+      <webElementGuid>77f830ec-1e6d-4103-89de-e20271ad6149</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +119,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'VIEW ALL' or . = 'VIEW ALL')]</value>
-      <webElementGuid>8199c7fc-8d3f-4709-a3f5-839c4446e299</webElementGuid>
+      <webElementGuid>86b5baf7-c675-4539-9966-02df0fa2ae20</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +127,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[2]</value>
-      <webElementGuid>72319503-6643-48da-81e6-745b08b4ab41</webElementGuid>
+      <webElementGuid>b437e47d-eb14-46e2-a856-d533b3019a73</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +135,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div[2]/div[2]/div[3]/div/section/div[2]/button</value>
-      <webElementGuid>11411f40-d3ea-4495-b50b-68f9ce3b1062</webElementGuid>
+      <webElementGuid>a2ce3975-ac64-4387-81a9-1c027660a0f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +143,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Games'])[2]/following::button[1]</value>
-      <webElementGuid>eaaeea1e-5b8f-41b6-866f-a805e8bc5fa6</webElementGuid>
+      <webElementGuid>c3f5eb35-dafb-4b72-9120-d75648847db7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,7 +151,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Higgs Domino (A+)'])[1]/following::button[1]</value>
-      <webElementGuid>154aef28-e1dc-4f1b-81f5-c18d770952ed</webElementGuid>
+      <webElementGuid>4350ec44-f130-463c-8676-a57910837edf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,7 +159,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Mobile Legends: Bang Bang'])[1]/preceding::button[1]</value>
-      <webElementGuid>8fb6a17a-8e38-40fb-beb3-cd59f4f1d492</webElementGuid>
+      <webElementGuid>0dffb5f5-ed97-499c-8da6-f6b08f8bf80c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -166,7 +167,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Higgs Domino'])[1]/preceding::button[1]</value>
-      <webElementGuid>ef9b67ab-9743-4d63-a279-46709e314717</webElementGuid>
+      <webElementGuid>d8c8bd3b-41d4-4d81-83c8-da497df08462</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -174,7 +175,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='VIEW ALL']/parent::*</value>
-      <webElementGuid>b0a79455-3e1e-4ccb-bf1e-82b647edb9ed</webElementGuid>
+      <webElementGuid>a6caa697-c6df-4218-8d2d-2f4cee9d3323</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -182,7 +183,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//section/div[2]/button</value>
-      <webElementGuid>1f67b51e-6de3-426a-acb6-8ff02723bfe3</webElementGuid>
+      <webElementGuid>d5ea303b-4585-459b-9076-b111ad808514</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -190,7 +191,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[3]</value>
-      <webElementGuid>604b6023-6ebb-4e98-858c-6585699abe60</webElementGuid>
+      <webElementGuid>4067c49a-e1d9-4b4d-ae55-6dcd1709a1e1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -198,15 +199,15 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div[2]/div[2]/div[4]/div/section/div[2]/button</value>
-      <webElementGuid>61815a1d-4f2a-44f9-b725-ce136582f74b</webElementGuid>
+      <webElementGuid>ea8152a1-3178-40a6-a61f-f1682e3ad2e5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Digital Voucher'])[2]/following::button[1]</value>
-      <webElementGuid>4cd8fee4-8177-453d-8112-f5a26ebe21dc</webElementGuid>
+      <value></value>
+      <webElementGuid>621e9636-1048-419a-9d2e-381151e6b804</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -214,7 +215,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Genshin Impact'])[1]/following::button[1]</value>
-      <webElementGuid>c9360981-79cb-4f79-8ef8-a27f0c31406b</webElementGuid>
+      <webElementGuid>a8cca4a0-2045-4241-a169-d4c1cb852915</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -222,7 +223,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kode Voucher Google Play'])[1]/preceding::button[1]</value>
-      <webElementGuid>1900878c-ca7b-42ff-a065-8bde2ddf06e8</webElementGuid>
+      <webElementGuid>1c0248ff-498e-4251-be3c-61101562bd1e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -230,14 +231,14 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Google Play (A+)'])[1]/preceding::button[1]</value>
-      <webElementGuid>672c6723-af86-4ab5-9dd8-bbacab8c5504</webElementGuid>
+      <webElementGuid>d53f06b9-09bc-4b68-ab5b-c6cffa06b1ea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[4]/div/section/div[2]/button</value>
-      <webElementGuid>2090d583-86cf-4782-ae40-97fe657892a1</webElementGuid>
+      <value></value>
+      <webElementGuid>a67b7b02-7dcd-4bf3-bd3f-2f69931e08dc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

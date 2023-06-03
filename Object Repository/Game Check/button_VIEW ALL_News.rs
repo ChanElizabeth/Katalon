@@ -6,12 +6,11 @@
    <elementGuidId>93e65436-1256-4ffb-8a87-8dca2c54dbf2</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(//button[@type='button'])[4]</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[4]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>541ee66d-9c17-4c88-bb9f-09f5f9707f2e</webElementGuid>
+      <webElementGuid>fef84f38-e912-4ea0-84c2-8a8bd2593b66</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +29,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>7f6d2624-b05f-49af-bba3-7b70114c884c</webElementGuid>
+      <webElementGuid>5d28dc83-458e-43e8-abfc-a8c23b193f74</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>f-btn f-btn-primary f-btn-large</value>
-      <webElementGuid>811fea49-a2a1-4a2b-a73d-8b603b988f93</webElementGuid>
+      <webElementGuid>2092fcde-06d0-4ba6-8c49-abf187c8b6ed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>VIEW ALL</value>
-      <webElementGuid>9647e8c8-93f3-439d-aa19-f56d47596ec9</webElementGuid>
+      <webElementGuid>712185be-5050-4d06-a181-121a5bf3fafb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;item-digital&quot;]/div[@class=&quot;item-digital-home&quot;]/div[@class=&quot;item-digital-home__content l-desktop&quot;]/div[@class=&quot;pb-16&quot;]/div[@class=&quot;item-digital-category&quot;]/section[@class=&quot;item-digital-category__title f-flex f-justify-space-between f-align-center pb-24 l-desktop&quot;]/div[@class=&quot;item-digital-category__button&quot;]/button[@class=&quot;f-btn f-btn-primary f-btn-large&quot;]</value>
-      <webElementGuid>6e0e1310-049d-4da2-bdfb-5aed0f75d4ec</webElementGuid>
+      <webElementGuid>0a0b22af-e5e9-4971-ac5d-13b4e868e95d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[4]</value>
-      <webElementGuid>912e82c6-e0dc-4c9e-a3fd-2f31e6472a28</webElementGuid>
+      <webElementGuid>48453983-9e6c-42ca-be7b-4f30150820ef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div[2]/div[2]/div[5]/div/section/div[2]/button</value>
-      <webElementGuid>9bf6aabf-0ef4-47c0-82a7-4b216efec472</webElementGuid>
+      <webElementGuid>ee2312b6-7358-4fce-b5a1-5861e6aeaf03</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='News &amp; Events'])[2]/following::button[1]</value>
-      <webElementGuid>e0e5ad68-36d0-4281-8f20-931f4f29a6d2</webElementGuid>
+      <webElementGuid>fd12aa07-a4be-4d43-b0b0-479ff0a175a8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='UniPin Voucher'])[1]/following::button[1]</value>
-      <webElementGuid>9eac8e5a-55e6-41f2-8985-8b3de265b38f</webElementGuid>
+      <webElementGuid>c1061d5f-685b-43fa-b518-94789d15bbec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tips Fast Hand Biar Makin Sat-Set Saat Ngegame!'])[1]/preceding::button[1]</value>
-      <webElementGuid>066272cf-a86d-4620-a33d-ba5fdd0ce314</webElementGuid>
+      <webElementGuid>ea8859bc-7cb6-47a4-a30c-5484a1e01ee5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ada Nintendo Switch &amp; iPad Mini Gratis Buatmu! Cek Cara Dapetinnya'])[1]/preceding::button[1]</value>
-      <webElementGuid>d8fe1ee0-993a-4450-81ec-e4378682b032</webElementGuid>
+      <webElementGuid>1da5a23e-e067-444a-85b6-e6a7986195d3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/div/section/div[2]/button</value>
-      <webElementGuid>d7e8401c-170a-48dd-ac17-1c6f535f668b</webElementGuid>
+      <webElementGuid>6caa846e-f976-4d95-aa1b-b917fd4673ad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'VIEW ALL' or . = 'VIEW ALL')]</value>
-      <webElementGuid>d3381ebc-4648-4c57-a94e-b2b8adb140f8</webElementGuid>
+      <webElementGuid>ab0ff345-350c-4274-bcb3-a08f8090e117</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

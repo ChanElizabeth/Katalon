@@ -19,9 +19,21 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('https://m.dana.id/i/biller-app/game/home')
 
+if (WebUI.verifyElementPresent(findTestObject('Object Repository/button_CANCEL'), 0) == true) {
+    WebUI.click(findTestObject('Object Repository/button_CANCEL'))
+
 WebUI.scrollToElement(findTestObject('Game Check/button_VIEW ALL_Game'), 0)
 
 WebUI.click(findTestObject('Game Check/button_VIEW ALL_Game'))
 
-WebUI.verifyElementPresent(findTestObject('Game Check/ex_game'), 0)
+WebUI.scrollToElement(findTestObject('Game Check/ex_game'), 0)
+
+} else {
+	WebUI.scrollToElement(findTestObject('Game Check/button_VIEW ALL_Game'), 0)
+	
+	WebUI.click(findTestObject('Game Check/button_VIEW ALL_Game'))
+	
+	WebUI.scrollToElement(findTestObject('Game Check/ex_game'), 0)
+	
+}
 
