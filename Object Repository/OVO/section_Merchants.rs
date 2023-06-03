@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>section_Merchants</name>
+   <tag></tag>
+   <elementGuidId>76d0e2c1-cf63-400a-b2d6-2846518c4eb5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='all']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#all</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>33398b8e-5462-494c-80b2-ea69b842cf46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>all</value>
+      <webElementGuid>e1198758-77b3-4ea2-9577-d0c3b1d49c7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>js-deal dc__listw clearfix</value>
+      <webElementGuid>718fa606-210b-4082-ba60-13dd7b3f2482</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;all&quot;)</value>
+      <webElementGuid>8a30babd-86ff-44dc-9df4-42da857d0b00</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='all']</value>
+      <webElementGuid>c4eac2d6-f597-4dba-8fbd-2d87aafcad94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gunakan OVO Points di berbagai merchant rekanan OVO.'])[1]/following::div[1]</value>
+      <webElementGuid>1ca56981-0836-49ce-8aec-ff7c2a40e2ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Merchants'])[2]/following::div[2]</value>
+      <webElementGuid>609dbc7d-80f8-4171-a380-bb602243c9f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LEBIH BANYAK'])[1]/preceding::div[25]</value>
+      <webElementGuid>163ab781-7092-417d-aade-c10a59ab7c3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftarkan email Anda untuk mendapatkan penawaran menarik dari kami'])[1]/preceding::div[27]</value>
+      <webElementGuid>75380bf2-67bd-4a43-8c24-5af5fdfaef74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/div</value>
+      <webElementGuid>86ee4031-b5cd-4965-9f36-18b909f205d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'all']</value>
+      <webElementGuid>37316727-edb6-41f7-a576-2f803a9e1cf7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
