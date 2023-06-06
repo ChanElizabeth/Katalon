@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>body_review app page</name>
+   <tag></tag>
+   <elementGuidId>f4180de0-7d35-46e1-a7dc-62baf9d88008</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-38329']/section[3]/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.testimonials__sliderss</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b2e2f2b2-6721-4bf3-83b7-76a4f745acf8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>testimonials__sliderss</value>
+      <webElementGuid>442ebea1-160f-4387-8dcf-d440877cda13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ben See Google Review     Right from the start from signing up for an account, to making a booking on the app, to the confirmation of a Care Asst and to the whole visit concluding, its all a seamless and worry free process. Loved this service and would recommend it to anyone who requires the extra pair of hands and legsIchannie App Store     Have been using this for a year to help my grandfather who frequently gets aspiration pneumonia and has difficulty leaving the house. The app is so easy to use, and the cherry on top is the wonderful service behind the app. Had some difficulty finding a doctor recently and Hakim called me back personally twice to ensure a doctor was found. Thank you so much, cannot recommend this app more.Nizam Mohd App Store     Very responsive app, with options to chat with caregiver, review reports and contact support team for assistance.</value>
+      <webElementGuid>a39a08d5-bc8e-445f-810f-89c5fe1810b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-38329&quot;)/section[@class=&quot;testimonials&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;testimonials__sliderss&quot;]</value>
+      <webElementGuid>afc85f62-abae-40af-b5da-5ed7c3b42a7b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-38329']/section[3]/div/div[2]/div</value>
+      <webElementGuid>1124238d-1ba3-4539-9e13-2356355900e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='What our customers say'])[1]/following::div[2]</value>
+      <webElementGuid>c4defdd9-d872-4a99-9a73-f093d2de33e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stay updated with detailed visit reports'])[1]/following::div[11]</value>
+      <webElementGuid>c9cc1692-a821-4ff8-9e6a-c3192d9b5e1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[3]/div/div[2]/div</value>
+      <webElementGuid>6b901912-8204-4814-bbf4-195e26836ded</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Ben See Google Review     Right from the start from signing up for an account, to making a booking on the app, to the confirmation of a Care Asst and to the whole visit concluding, its all a seamless and worry free process. Loved this service and would recommend it to anyone who requires the extra pair of hands and legsIchannie App Store     Have been using this for a year to help my grandfather who frequently gets aspiration pneumonia and has difficulty leaving the house. The app is so easy to use, and the cherry on top is the wonderful service behind the app. Had some difficulty finding a doctor recently and Hakim called me back personally twice to ensure a doctor was found. Thank you so much, cannot recommend this app more.Nizam Mohd App Store     Very responsive app, with options to chat with caregiver, review reports and contact support team for assistance.' or . = 'Ben See Google Review     Right from the start from signing up for an account, to making a booking on the app, to the confirmation of a Care Asst and to the whole visit concluding, its all a seamless and worry free process. Loved this service and would recommend it to anyone who requires the extra pair of hands and legsIchannie App Store     Have been using this for a year to help my grandfather who frequently gets aspiration pneumonia and has difficulty leaving the house. The app is so easy to use, and the cherry on top is the wonderful service behind the app. Had some difficulty finding a doctor recently and Hakim called me back personally twice to ensure a doctor was found. Thank you so much, cannot recommend this app more.Nizam Mohd App Store     Very responsive app, with options to chat with caregiver, review reports and contact support team for assistance.')]</value>
+      <webElementGuid>37c07e51-ecdb-4684-b9ad-4e58e9f5f6ea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

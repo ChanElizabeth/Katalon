@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>section_Why Families Prefer Homage</name>
+   <tag></tag>
+   <elementGuidId>4bd6e064-6930-419b-bf8b-f44a1aacfe09</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='page_template_1']/main/section[6]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.whyFamiliesUse__inner > div.container-fluid > div.row</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c5bc817c-a1ef-4143-9ab4-240112bb257a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>row</value>
+      <webElementGuid>abf46969-3f6e-4eb3-8a21-089890443914</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Why Families Prefer HomageZero CommitmentBook flexible care solutions from 1 hour with no ongoing commitment required.Transparent PricingKnow the exact cost of service before booking.Dedicated Care ProfessionalsReceive quality care from a carefully selected pool of experienced Care Professionals.Personalised Care PlansLet Homage Care Advisors create a care plan specific to your needs and choices.Long Term Care PackagesAllow your funding to last longer with our long term packages that offer the same quality care at at lower cost.Care ReportingReceive a care report after every visit so you understand the care your loved ones have received for peace of mind. Get Care Now</value>
+      <webElementGuid>d5df3ba5-9a55-4858-a6e0-b5ecf77042af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page_template_1&quot;)/main[1]/section[@class=&quot;whyFamiliesUse&quot;]/div[@class=&quot;whyFamiliesUse__inner&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]</value>
+      <webElementGuid>023ff06c-a207-4cb3-8777-f14632b37a21</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='page_template_1']/main/section[6]/div/div/div</value>
+      <webElementGuid>d1fb5625-d6f9-4491-a574-2fcd1a9e9a2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Explore Homage App'])[1]/following::div[3]</value>
+      <webElementGuid>be27e1f4-cffa-4f28-9c7c-cfa8e8c60a23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Book, manage and pay for visits all in one place'])[1]/following::div[4]</value>
+      <webElementGuid>26b0740e-8fdd-4b13-b1ae-e37733f45396</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[6]/div/div/div</value>
+      <webElementGuid>d3e44761-51f3-42a5-aaf6-b82bcfcb458f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Why Families Prefer HomageZero CommitmentBook flexible care solutions from 1 hour with no ongoing commitment required.Transparent PricingKnow the exact cost of service before booking.Dedicated Care ProfessionalsReceive quality care from a carefully selected pool of experienced Care Professionals.Personalised Care PlansLet Homage Care Advisors create a care plan specific to your needs and choices.Long Term Care PackagesAllow your funding to last longer with our long term packages that offer the same quality care at at lower cost.Care ReportingReceive a care report after every visit so you understand the care your loved ones have received for peace of mind. Get Care Now' or . = 'Why Families Prefer HomageZero CommitmentBook flexible care solutions from 1 hour with no ongoing commitment required.Transparent PricingKnow the exact cost of service before booking.Dedicated Care ProfessionalsReceive quality care from a carefully selected pool of experienced Care Professionals.Personalised Care PlansLet Homage Care Advisors create a care plan specific to your needs and choices.Long Term Care PackagesAllow your funding to last longer with our long term packages that offer the same quality care at at lower cost.Care ReportingReceive a care report after every visit so you understand the care your loved ones have received for peace of mind. Get Care Now')]</value>
+      <webElementGuid>0ac8d438-663d-46b7-b56f-ec39feb9ae6d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

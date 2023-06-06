@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>NavBar</name>
+   <tag></tag>
+   <elementGuidId>3cf5a13d-c9b2-4259-8d93-7ca143467113</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='page_template_1']/header/div[2]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.header--upper</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a8463fc2-71de-40c6-b428-51c0f2a207d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>header--upper</value>
+      <webElementGuid>096055de-ff96-498f-adb9-db3647f726c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>            Call us 6100 0055  Get Care Now       Singapore  Malaysia    Australia </value>
+      <webElementGuid>b43ac46f-f418-4399-a508-c18201c54ac5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page_template_1&quot;)/header[@class=&quot;header clear&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;header--upper&quot;]</value>
+      <webElementGuid>14cf55df-ffde-4312-8f0f-d2294f39b5ec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='page_template_1']/header/div[2]/div/div/div</value>
+      <webElementGuid>3556cf46-3372-43c4-913a-e57cb332bbd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View'])[2]/following::div[4]</value>
+      <webElementGuid>bd32ffc0-757b-43be-a992-d04cb2f07b79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View'])[1]/following::div[4]</value>
+      <webElementGuid>4ad5ee81-cd82-4ee3-a9c5-c5e06d76825a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div</value>
+      <webElementGuid>8b4afa85-b458-4fbc-aaa7-0ad221be4426</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '            Call us 6100 0055  Get Care Now       Singapore  Malaysia    Australia ' or . = '            Call us 6100 0055  Get Care Now       Singapore  Malaysia    Australia ')]</value>
+      <webElementGuid>04c45b19-2158-4302-8c85-3df22fdb41cf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>body_Homage app page</name>
+   <tag></tag>
+   <elementGuidId>13e27088-d991-4a04-990f-55461e5963ea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-38329']/section[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>section.flexibleContent > div.container-fluid</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>84846726-45fd-4d37-b2b2-c659e5459429</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>container-fluid</value>
+      <webElementGuid>67bbba06-356c-4e06-805e-5dc89bf74972</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Why use the app?Get your care in as little as  48 hoursGet to know your carers past experience and qualificationsBook, manage and pay for visits all in one place  How does it work? 01Create your care profile 02Receive assessment of your care needs 03Book a visit and get matched to an experienced Care Pro 04Pay-as-you-go or save with prepaid packages 05Stay updated with detailed visit reports      </value>
+      <webElementGuid>85f40dd2-0d9e-498f-adcf-8a7184c39819</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-38329&quot;)/section[@class=&quot;flexibleContent&quot;]/div[@class=&quot;container-fluid&quot;]</value>
+      <webElementGuid>dadd1066-82fe-4680-8faf-e4076845c58f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-38329']/section[2]/div</value>
+      <webElementGuid>d601f2e7-64a4-4def-826c-e5b15bdfdf54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home Care On Demand'])[1]/following::div[6]</value>
+      <webElementGuid>ec0390fb-8b67-42c9-a9e4-77450289fa9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Australia'])[2]/following::div[11]</value>
+      <webElementGuid>61463f15-a683-4d9c-a1c9-dac5ced7eab0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/div</value>
+      <webElementGuid>c6b880fb-c4e9-4769-a410-b793a4a974ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Why use the app?Get your care in as little as  48 hoursGet to know your carers past experience and qualificationsBook, manage and pay for visits all in one place  How does it work? 01Create your care profile 02Receive assessment of your care needs 03Book a visit and get matched to an experienced Care Pro 04Pay-as-you-go or save with prepaid packages 05Stay updated with detailed visit reports      ' or . = 'Why use the app?Get your care in as little as  48 hoursGet to know your carers past experience and qualificationsBook, manage and pay for visits all in one place  How does it work? 01Create your care profile 02Receive assessment of your care needs 03Book a visit and get matched to an experienced Care Pro 04Pay-as-you-go or save with prepaid packages 05Stay updated with detailed visit reports      ')]</value>
+      <webElementGuid>1b0d527d-3f0e-45f7-9d26-3e68be91d450</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>section_Some of our top categories in Singapore</name>
+   <tag></tag>
+   <elementGuidId>35a69351-928c-4b53-9e6b-c0e503a5c01d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='page_template_1']/main/section[12]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>section.categories > div.container-fluid > div.row > div.col-12</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c513297b-4eec-4cb6-8795-58053ea4d7b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-12</value>
+      <webElementGuid>be0b119e-a4f2-48fe-a841-56539ad0517e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Some of our top categories in Singapore   Home Care &amp; NursingHome Care in SingaporeElderly Care in SingaporeRespite Care in SingaporeCaregivers in SingaporePart-Time CaregiversPrivate Nurses in SingaporeMedical Escort &amp; Transport  Home TherapyHome Therapy in SingaporePhysiotherapy in SingaporeSpeech Therapy in SingaporeOccupational Therapy  Home MedicalHouse Call DoctorOnline Doctors in SingaporeDoctors Near MeGeneral PractitionersHealth Screening SingaporeOnline Medical CertificatePrivate AmbulanceMedicine Delivery  Specialised CareCOVID-19 Home Swab TestPalliative CareEnd-of-Life CareDementia CareStroke CareParkinson’s CareCancer CarePost-Surgery Care  ResourcesElder Care ServicesCare Support GroupsCaregiver StressActive AgeingActivities for ElderlyFall PreventionFinancial Assistance</value>
+      <webElementGuid>a0bc9275-0410-436c-8b8a-9827b66b869a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page_template_1&quot;)/main[1]/section[@class=&quot;categories&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]</value>
+      <webElementGuid>1c5c9d1f-232e-426f-8ed4-d4969af63d63</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='page_template_1']/main/section[12]/div/div/div</value>
+      <webElementGuid>63d5a101-6289-4abe-87fb-df48eafc2206</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Make Home Care Personal To Your Loved One'])[1]/following::div[3]</value>
+      <webElementGuid>86b65347-3ff3-4620-8285-83f4c3065d6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Brenda Koh, Facebook review'])[3]/following::div[11]</value>
+      <webElementGuid>02db7690-24f2-4c07-bcfe-d37693ae7459</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[12]/div/div/div</value>
+      <webElementGuid>4d3d3aef-2a69-46dd-9e2a-590c7f37620b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '  Some of our top categories in Singapore   Home Care &amp; NursingHome Care in SingaporeElderly Care in SingaporeRespite Care in SingaporeCaregivers in SingaporePart-Time CaregiversPrivate Nurses in SingaporeMedical Escort &amp; Transport  Home TherapyHome Therapy in SingaporePhysiotherapy in SingaporeSpeech Therapy in SingaporeOccupational Therapy  Home MedicalHouse Call DoctorOnline Doctors in SingaporeDoctors Near MeGeneral PractitionersHealth Screening SingaporeOnline Medical CertificatePrivate AmbulanceMedicine Delivery  Specialised CareCOVID-19 Home Swab TestPalliative CareEnd-of-Life CareDementia CareStroke CareParkinson’s CareCancer CarePost-Surgery Care  ResourcesElder Care ServicesCare Support GroupsCaregiver StressActive AgeingActivities for ElderlyFall PreventionFinancial Assistance' or . = '  Some of our top categories in Singapore   Home Care &amp; NursingHome Care in SingaporeElderly Care in SingaporeRespite Care in SingaporeCaregivers in SingaporePart-Time CaregiversPrivate Nurses in SingaporeMedical Escort &amp; Transport  Home TherapyHome Therapy in SingaporePhysiotherapy in SingaporeSpeech Therapy in SingaporeOccupational Therapy  Home MedicalHouse Call DoctorOnline Doctors in SingaporeDoctors Near MeGeneral PractitionersHealth Screening SingaporeOnline Medical CertificatePrivate AmbulanceMedicine Delivery  Specialised CareCOVID-19 Home Swab TestPalliative CareEnd-of-Life CareDementia CareStroke CareParkinson’s CareCancer CarePost-Surgery Care  ResourcesElder Care ServicesCare Support GroupsCaregiver StressActive AgeingActivities for ElderlyFall PreventionFinancial Assistance')]</value>
+      <webElementGuid>efbc1a72-d821-4f53-85da-b40f389f61b7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>description_homage</name>
+   <tag></tag>
+   <elementGuidId>f1108dd3-ea6f-417e-9e10-6d2ebe255215</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='page_template_1']/main/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.list_care_now</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9c152cdd-5f55-4022-b858-b143507b5576</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list_care_now</value>
+      <webElementGuid>5f34ddfb-f94f-44e6-8276-4c9da4a4228c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Get care now with the Homage app Get your care in as little as 48 hours Get to know your carers past experience and qualifications Book, manage and pay for visits all in one place</value>
+      <webElementGuid>64b4b1da-b6ef-47c7-9d84-cdece95e25cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page_template_1&quot;)/main[1]/div[@class=&quot;modal model_popup&quot;]/div[@class=&quot;modal__inner_popup&quot;]/div[@class=&quot;get_care_app&quot;]/div[@class=&quot;get_care_now&quot;]/div[@class=&quot;list_care_now&quot;]</value>
+      <webElementGuid>9f159998-1535-4691-8c8a-a98ac9894bfc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='page_template_1']/main/div/div/div/div/div</value>
+      <webElementGuid>a1fb8ade-ceab-4025-96b2-65961757338d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Financial Assistance'])[1]/following::div[6]</value>
+      <webElementGuid>98d149d2-9f6a-4a9f-b750-de9ec7291779</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fall Prevention'])[2]/following::div[6]</value>
+      <webElementGuid>17ec58cb-b9f5-4807-985e-b1fe2f66f325</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/div/div/div/div</value>
+      <webElementGuid>8a651a90-a653-4630-a8f2-03e587f6f391</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Get care now with the Homage app Get your care in as little as 48 hours Get to know your carers past experience and qualifications Book, manage and pay for visits all in one place' or . = 'Get care now with the Homage app Get your care in as little as 48 hours Get to know your carers past experience and qualifications Book, manage and pay for visits all in one place')]</value>
+      <webElementGuid>dd1447b8-e027-4953-b7eb-3db6677a8f3e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

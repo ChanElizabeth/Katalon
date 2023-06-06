@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Get Care Now</name>
+   <tag></tag>
+   <elementGuidId>bd15b66e-9b20-4bd9-bd51-71af3379978f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='page_template_1']/header/div[2]/div/div/div/div[2]/a[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.heroCta__label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>de0e30d7-d4a6-4409-b191-69151ac84ff0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>heroCta__label</value>
+      <webElementGuid>cbf730f8-2ed4-48a6-9757-404ad84d5635</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Get Care Now</value>
+      <webElementGuid>a0245424-193a-41eb-bdf7-dfce338bbe1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page_template_1&quot;)/header[@class=&quot;header clear&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;header--upper&quot;]/div[@class=&quot;buttons&quot;]/a[@class=&quot;heroCta openModal button getCareNow&quot;]/span[@class=&quot;heroCta__label&quot;]</value>
+      <webElementGuid>df9a41f8-4ea8-4556-b1b4-e9e053c5f1f8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='page_template_1']/header/div[2]/div/div/div/div[2]/a[2]/span</value>
+      <webElementGuid>29380ceb-67b8-4053-8314-a989221777c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Call us'])[1]/following::span[2]</value>
+      <webElementGuid>8ec6da43-efed-48a8-ba53-053a1d6f157b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View'])[2]/following::span[7]</value>
+      <webElementGuid>fa8b79c5-3b55-4407-a785-0d9b0df488b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Singapore'])[1]/preceding::span[1]</value>
+      <webElementGuid>103f5842-6d1f-4ba1-9768-ddf6efd3b47a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Malaysia'])[1]/preceding::span[2]</value>
+      <webElementGuid>f784665d-c816-45af-90a8-49d66b11b74b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Get Care Now']/parent::*</value>
+      <webElementGuid>8eb91a1b-424e-4c81-b460-4bfc79215c86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/span</value>
+      <webElementGuid>d81d72ad-3d6d-452f-807d-472d31bb30d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Get Care Now' or . = 'Get Care Now')]</value>
+      <webElementGuid>4c9f3b3c-94f1-44ae-8b79-a545a2f00256</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>section_How Homage works</name>
+   <tag></tag>
+   <elementGuidId>52b1265c-6e52-43f6-8d89-2c2dc9f2d418</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='page_template_1']/main/section[5]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.howItWorks__inner</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b89512d4-5fbe-444f-83c1-3871fc437bd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>howItWorks__inner</value>
+      <webElementGuid>ad7928fa-3247-4269-8f00-e007b4163e8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>How Homage works Download the Homage mobile app   Set up a care plan and get matched to a Care Pro Receive care from our Care Pros Book, manage and pay for visits all in one place Explore Homage App</value>
+      <webElementGuid>d0149c8a-c460-4160-857a-bd803b9ac7fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page_template_1&quot;)/main[1]/section[@class=&quot;howItWorks howitWorksSection&quot;]/div[@class=&quot;howItWorks__inner&quot;]</value>
+      <webElementGuid>0959dc2b-addd-429f-9d6f-e3b522af77a8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='page_template_1']/main/section[5]/div</value>
+      <webElementGuid>38660a8f-24c7-4706-ae4c-377f13070538</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Online Doctors'])[3]/following::div[11]</value>
+      <webElementGuid>69bcdd3c-4c61-40aa-beee-b83530088fa5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='House Call Doctors'])[3]/following::div[11]</value>
+      <webElementGuid>e0948d13-1598-448e-9f23-5f5db520f3a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[5]/div</value>
+      <webElementGuid>9e0f3bdc-25a9-44b0-bc27-aade651e843f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'How Homage works Download the Homage mobile app   Set up a care plan and get matched to a Care Pro Receive care from our Care Pros Book, manage and pay for visits all in one place Explore Homage App' or . = 'How Homage works Download the Homage mobile app   Set up a care plan and get matched to a Care Pro Receive care from our Care Pros Book, manage and pay for visits all in one place Explore Homage App')]</value>
+      <webElementGuid>90eba883-88a8-481b-bb82-271afc825c85</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
