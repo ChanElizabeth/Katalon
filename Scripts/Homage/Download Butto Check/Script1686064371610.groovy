@@ -25,3 +25,5 @@ WebUI.verifyElementPresent(findTestObject('Homagee/description_homage'), 0)
 
 WebUI.scrollToElement(findTestObject('Homagee/section_Speak to our Care Advisors'), 0)
 
+WebUI.takeFullPageScreenshotAsCheckpoint('Check download button page visual')
+

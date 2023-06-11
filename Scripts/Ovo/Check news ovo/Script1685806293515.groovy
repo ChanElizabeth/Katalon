@@ -25,3 +25,5 @@ WebUI.verifyElementPresent(findTestObject('OVO/title_News'), 0)
 
 WebUI.scrollToElement(findTestObject('OVO/section_News'), 0)
 
+WebUI.takeFullPageScreenshotAsCheckpoint('Check news page visual')
+

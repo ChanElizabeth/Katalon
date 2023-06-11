@@ -19,6 +19,8 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('https://www.ovo.id/')
 
+WebUI.maximizeWindow()
+
 WebUI.verifyElementPresent(findTestObject('OVO/homeMenu'), 0)
 
 WebUI.click(findTestObject('OVO/homeMenu'))

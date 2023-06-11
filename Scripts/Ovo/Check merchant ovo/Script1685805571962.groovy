@@ -25,3 +25,5 @@ WebUI.verifyElementPresent(findTestObject('OVO/title_Merchants'), 0)
 
 WebUI.scrollToElement(findTestObject('OVO/section_Merchants'), 0)
 
+WebUI.takeFullPageScreenshotAsCheckpoint('Check merchant page visual')
+

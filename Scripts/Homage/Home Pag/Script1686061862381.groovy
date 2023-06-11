@@ -31,3 +31,5 @@ WebUI.scrollToElement(findTestObject('Homagee/section_Medical Conditions'), 0)
 
 WebUI.scrollToElement(findTestObject('Homagee/section_Some of our top categories in Singapore'), 0)
 
+WebUI.takeFullPageScreenshotAsCheckpoint('Check home page visual')
+

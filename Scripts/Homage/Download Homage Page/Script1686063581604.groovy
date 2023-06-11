@@ -31,3 +31,5 @@ WebUI.scrollToElement(findTestObject('Homagee/body_review app page'), 0)
 
 WebUI.scrollToElement(findTestObject('Homagee/qr_homage app'), 0)
 
+WebUI.takeFullPageScreenshotAsCheckpoint('Check download homage page visual')
+

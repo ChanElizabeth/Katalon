@@ -1,0 +1,36 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Ovo,Chrome 114.0.0.0,,,2023-06-08 23:25:48,2023-06-08 23:26:21,32.812s,PASSED
+,,,,,,,
+Test Cases/Ovo/Check About Us Ovo,Chrome 114.0.0.0,,,2023-06-08 23:25:49,2023-06-08 23:25:55,6.782s,PASSED
+"callTestCase(findTestCase(""Ovo/Open Home Menu""), [:], STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-06-08 23:25:49,2023-06-08 23:25:54,4.797s,PASSED
+"click(findTestObject(""OVO/menu_About Us""))",Chrome 114.0.0.0,,,2023-06-08 23:25:54,2023-06-08 23:25:55,1.094s,PASSED
+"verifyElementPresent(findTestObject(""OVO/aboutus_title""), 0)",Chrome 114.0.0.0,,,2023-06-08 23:25:55,2023-06-08 23:25:55,0.384s,PASSED
+"scrollToElement(findTestObject(""OVO/aboutus_section""), 0)",Chrome 114.0.0.0,,,2023-06-08 23:25:55,2023-06-08 23:25:55,0.298s,PASSED
+,,,,,,,
+Test Cases/Ovo/Check deals ovo,Chrome 114.0.0.0,,,2023-06-08 23:25:55,2023-06-08 23:26:01,5.601s,PASSED
+"callTestCase(findTestCase(""Ovo/Open Home Menu""), [:], STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-06-08 23:25:56,2023-06-08 23:25:59,3.644s,PASSED
+"click(findTestObject(""OVO/menu_Deals""))",Chrome 114.0.0.0,,,2023-06-08 23:25:59,2023-06-08 23:26:00,1.054s,PASSED
+"verifyElementPresent(findTestObject(""OVO/title_Deals""), 0)",Chrome 114.0.0.0,,,2023-06-08 23:26:00,2023-06-08 23:26:01,0.481s,PASSED
+"scrollToElement(findTestObject(""OVO/section_Deals""), 0)",Chrome 114.0.0.0,,,2023-06-08 23:26:01,2023-06-08 23:26:01,0.292s,PASSED
+,,,,,,,
+Test Cases/Ovo/Check feature ovo website,Chrome 114.0.0.0,,,2023-06-08 23:26:01,2023-06-08 23:26:06,5.210s,PASSED
+"callTestCase(findTestCase(""Ovo/Open Home Menu""), [:], STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-06-08 23:26:01,2023-06-08 23:26:05,3.637s,PASSED
+"click(findTestObject(""OVO/menu_Features""))",Chrome 114.0.0.0,,,2023-06-08 23:26:05,2023-06-08 23:26:06,0.992s,PASSED
+"scrollToElement(findTestObject(""OVO/feature_section""), 0)",Chrome 114.0.0.0,,,2023-06-08 23:26:06,2023-06-08 23:26:06,0.491s,PASSED
+,,,,,,,
+Test Cases/Ovo/Check merchant ovo,Chrome 114.0.0.0,,,2023-06-08 23:26:06,2023-06-08 23:26:12,5.643s,PASSED
+"callTestCase(findTestCase(""Ovo/Open Home Menu""), [:], STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-06-08 23:26:06,2023-06-08 23:26:10,3.825s,PASSED
+"click(findTestObject(""OVO/menu_Merchants""))",Chrome 114.0.0.0,,,2023-06-08 23:26:10,2023-06-08 23:26:11,1.063s,PASSED
+"verifyElementPresent(findTestObject(""OVO/title_Merchants""), 0)",Chrome 114.0.0.0,,,2023-06-08 23:26:11,2023-06-08 23:26:12,0.398s,PASSED
+"scrollToElement(findTestObject(""OVO/section_Merchants""), 0)",Chrome 114.0.0.0,,,2023-06-08 23:26:12,2023-06-08 23:26:12,0.270s,PASSED
+,,,,,,,
+Test Cases/Ovo/Check news ovo,Chrome 114.0.0.0,,,2023-06-08 23:26:12,2023-06-08 23:26:18,5.679s,PASSED
+"callTestCase(findTestCase(""Ovo/Open Home Menu""), [:], STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-06-08 23:26:12,2023-06-08 23:26:16,3.657s,PASSED
+"click(findTestObject(""OVO/menu_News""))",Chrome 114.0.0.0,,,2023-06-08 23:26:16,2023-06-08 23:26:17,1.141s,PASSED
+"verifyElementPresent(findTestObject(""OVO/title_News""), 0)",Chrome 114.0.0.0,,,2023-06-08 23:26:17,2023-06-08 23:26:17,0.481s,PASSED
+"scrollToElement(findTestObject(""OVO/section_News""), 0)",Chrome 114.0.0.0,,,2023-06-08 23:26:17,2023-06-08 23:26:18,0.288s,PASSED
+,,,,,,,
+Test Cases/Ovo/Open Home Menu,Chrome 114.0.0.0,,,2023-06-08 23:26:18,2023-06-08 23:26:21,3.684s,PASSED
+"openBrowser(""https://www.ovo.id/"")",Chrome 114.0.0.0,,,2023-06-08 23:26:18,2023-06-08 23:26:21,3.099s,PASSED
+"verifyElementPresent(findTestObject(""OVO/homeMenu""), 0)",Chrome 114.0.0.0,,,2023-06-08 23:26:21,2023-06-08 23:26:21,0.281s,PASSED
+"click(findTestObject(""OVO/homeMenu""))",Chrome 114.0.0.0,,,2023-06-08 23:26:21,2023-06-08 23:26:21,0.299s,PASSED

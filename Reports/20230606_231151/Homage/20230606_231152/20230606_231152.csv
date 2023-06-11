@@ -1,0 +1,29 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Homage,Chrome 114.0.0.0,,,2023-06-06 23:11:57,2023-06-06 23:13:00,1m - 2.554s,PASSED
+,,,,,,,
+Test Cases/Homage/Open Homage,Chrome 114.0.0.0,,,2023-06-06 23:11:57,2023-06-06 23:12:08,10.357s,PASSED
+"openBrowser(""https://www.homage.sg/"")",Chrome 114.0.0.0,,,2023-06-06 23:11:58,2023-06-06 23:12:08,10.093s,PASSED
+,,,,,,,
+Test Cases/Homage/Home Pag,Chrome 114.0.0.0,,,2023-06-06 23:12:08,2023-06-06 23:12:30,21.957s,PASSED
+"callTestCase(findTestCase(""Homage/Open Homage""), [:], STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-06-06 23:12:08,2023-06-06 23:12:16,8.417s,PASSED
+"verifyElementPresent(findTestObject(""Homagee/NavBar""), 0)",Chrome 114.0.0.0,,,2023-06-06 23:12:16,2023-06-06 23:12:20,3.184s,PASSED
+"scrollToElement(findTestObject(""Homagee/section_Our Services""), 0)",Chrome 114.0.0.0,,,2023-06-06 23:12:20,2023-06-06 23:12:22,2.002s,PASSED
+"scrollToElement(findTestObject(""Homagee/section_How Homage works""), 0)",Chrome 114.0.0.0,,,2023-06-06 23:12:22,2023-06-06 23:12:24,2.096s,PASSED
+"scrollToElement(findTestObject(""Homagee/section_Why Families Prefer Homage""), 0)",Chrome 114.0.0.0,,,2023-06-06 23:12:24,2023-06-06 23:12:26,1.994s,PASSED
+"scrollToElement(findTestObject(""Homagee/section_Medical Conditions""), 0)",Chrome 114.0.0.0,,,2023-06-06 23:12:26,2023-06-06 23:12:28,1.973s,PASSED
+"scrollToElement(findTestObject(""Homagee/section_Some of our top categories in Singapore""), 0)",Chrome 114.0.0.0,,,2023-06-06 23:12:28,2023-06-06 23:12:30,1.972s,PASSED
+,,,,,,,
+Test Cases/Homage/Download Homage Page,Chrome 114.0.0.0,,,2023-06-06 23:12:30,2023-06-06 23:12:50,20.101s,PASSED
+"callTestCase(findTestCase(""Homage/Open Homage""), [:], STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-06-06 23:12:30,2023-06-06 23:12:39,8.797s,PASSED
+"click(findTestObject(""Homagee/nav_About Us""))",Chrome 114.0.0.0,,,2023-06-06 23:12:39,2023-06-06 23:12:42,3.128s,PASSED
+"click(findTestObject(""Homagee/menu_Homage App""))",Chrome 114.0.0.0,,,2023-06-06 23:12:42,2023-06-06 23:12:47,5.492s,PASSED
+"verifyElementPresent(findTestObject(""Homagee/title_Homage app page""), 0)",Chrome 114.0.0.0,,,2023-06-06 23:12:47,2023-06-06 23:12:48,1.195s,PASSED
+"scrollToElement(findTestObject(""Homagee/body_Homage app page""), 0)",Chrome 114.0.0.0,,,2023-06-06 23:12:48,2023-06-06 23:12:49,0.760s,PASSED
+"scrollToElement(findTestObject(""Homagee/body_review app page""), 0)",Chrome 114.0.0.0,,,2023-06-06 23:12:49,2023-06-06 23:12:50,0.286s,PASSED
+"scrollToElement(findTestObject(""Homagee/qr_homage app""), 0)",Chrome 114.0.0.0,,,2023-06-06 23:12:50,2023-06-06 23:12:50,0.285s,PASSED
+,,,,,,,
+Test Cases/Homage/Download Butto Check,Chrome 114.0.0.0,,,2023-06-06 23:12:50,2023-06-06 23:13:00,9.866s,PASSED
+"callTestCase(findTestCase(""Homage/Open Homage""), [:], STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-06-06 23:12:50,2023-06-06 23:12:57,7.432s,PASSED
+"click(findTestObject(""Homagee/button_Get Care Now""))",Chrome 114.0.0.0,,,2023-06-06 23:12:57,2023-06-06 23:12:59,1.490s,PASSED
+"verifyElementPresent(findTestObject(""Homagee/description_homage""), 0)",Chrome 114.0.0.0,,,2023-06-06 23:12:59,2023-06-06 23:12:59,0.504s,PASSED
+"scrollToElement(findTestObject(""Homagee/section_Speak to our Care Advisors""), 0)",Chrome 114.0.0.0,,,2023-06-06 23:12:59,2023-06-06 23:13:00,0.294s,PASSED

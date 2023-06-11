@@ -23,3 +23,5 @@ WebUI.click(findTestObject('OVO/menu_Features'))
 
 WebUI.scrollToElement(findTestObject('OVO/feature_section'), 0)
 
+WebUI.takeFullPageScreenshotAsCheckpoint('Check feature page visual')
+

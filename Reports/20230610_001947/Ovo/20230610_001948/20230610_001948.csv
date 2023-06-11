@@ -1,0 +1,41 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Ovo,Chrome 114.0.0.0,,,2023-06-10 00:19:56,2023-06-10 00:24:33,4m - 37.054s,PASSED
+,,,,,,,
+Test Cases/Ovo/Check About Us Ovo,Chrome 114.0.0.0,,,2023-06-10 00:19:56,2023-06-10 00:20:10,14.297s,PASSED
+"callTestCase(findTestCase(""Ovo/Open Home Menu""), [:], STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-06-10 00:19:56,2023-06-10 00:20:02,5.422s,PASSED
+"click(findTestObject(""OVO/menu_About Us""))",Chrome 114.0.0.0,,,2023-06-10 00:20:02,2023-06-10 00:20:03,1.076s,PASSED
+"verifyElementPresent(findTestObject(""OVO/aboutus_title""), 0)",Chrome 114.0.0.0,,,2023-06-10 00:20:03,2023-06-10 00:20:03,0.500s,PASSED
+"scrollToElement(findTestObject(""OVO/aboutus_section""), 0)",Chrome 114.0.0.0,,,2023-06-10 00:20:03,2023-06-10 00:20:04,0.316s,PASSED
+"takeFullPageScreenshotAsCheckpoint(""Check about us page visual"")",Chrome 114.0.0.0,,,2023-06-10 00:20:04,2023-06-10 00:20:10,6.818s,PASSED
+,,,,,,,
+Test Cases/Ovo/Check deals ovo,Chrome 114.0.0.0,,,2023-06-10 00:20:10,2023-06-10 00:20:23,12.382s,PASSED
+"callTestCase(findTestCase(""Ovo/Open Home Menu""), [:], STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-06-10 00:20:10,2023-06-10 00:20:15,4.316s,PASSED
+"click(findTestObject(""OVO/menu_Deals""))",Chrome 114.0.0.0,,,2023-06-10 00:20:15,2023-06-10 00:20:16,1.070s,PASSED
+"verifyElementPresent(findTestObject(""OVO/title_Deals""), 0)",Chrome 114.0.0.0,,,2023-06-10 00:20:16,2023-06-10 00:20:16,0.483s,PASSED
+"scrollToElement(findTestObject(""OVO/section_Deals""), 0)",Chrome 114.0.0.0,,,2023-06-10 00:20:16,2023-06-10 00:20:17,0.284s,PASSED
+"takeFullPageScreenshotAsCheckpoint(""Check deals page visual"")",Chrome 114.0.0.0,,,2023-06-10 00:20:17,2023-06-10 00:20:23,6.163s,PASSED
+,,,,,,,
+Test Cases/Ovo/Check feature ovo website,Chrome 114.0.0.0,,,2023-06-10 00:20:23,2023-06-10 00:20:36,13.485s,PASSED
+"callTestCase(findTestCase(""Ovo/Open Home Menu""), [:], STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-06-10 00:20:23,2023-06-10 00:20:27,4.353s,PASSED
+"click(findTestObject(""OVO/menu_Features""))",Chrome 114.0.0.0,,,2023-06-10 00:20:27,2023-06-10 00:20:29,1.538s,PASSED
+"scrollToElement(findTestObject(""OVO/feature_section""), 0)",Chrome 114.0.0.0,,,2023-06-10 00:20:29,2023-06-10 00:20:29,0.491s,PASSED
+"takeFullPageScreenshotAsCheckpoint(""Check feature page visual"")",Chrome 114.0.0.0,,,2023-06-10 00:20:29,2023-06-10 00:20:36,7.032s,PASSED
+,,,,,,,
+Test Cases/Ovo/Check merchant ovo,Chrome 114.0.0.0,,,2023-06-10 00:20:36,2023-06-10 00:20:49,12.265s,PASSED
+"callTestCase(findTestCase(""Ovo/Open Home Menu""), [:], STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-06-10 00:20:36,2023-06-10 00:20:41,4.481s,PASSED
+"click(findTestObject(""OVO/menu_Merchants""))",Chrome 114.0.0.0,,,2023-06-10 00:20:41,2023-06-10 00:20:42,1.082s,PASSED
+"verifyElementPresent(findTestObject(""OVO/title_Merchants""), 0)",Chrome 114.0.0.0,,,2023-06-10 00:20:42,2023-06-10 00:20:42,0.486s,PASSED
+"scrollToElement(findTestObject(""OVO/section_Merchants""), 0)",Chrome 114.0.0.0,,,2023-06-10 00:20:42,2023-06-10 00:20:43,0.304s,PASSED
+"takeFullPageScreenshotAsCheckpoint(""Check merchant page visual"")",Chrome 114.0.0.0,,,2023-06-10 00:20:43,2023-06-10 00:20:49,5.824s,PASSED
+,,,,,,,
+Test Cases/Ovo/Check news ovo,Chrome 114.0.0.0,,,2023-06-10 00:20:49,2023-06-10 00:21:33,44.247s,PASSED
+"callTestCase(findTestCase(""Ovo/Open Home Menu""), [:], STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-06-10 00:20:49,2023-06-10 00:20:53,4.247s,PASSED
+"click(findTestObject(""OVO/menu_News""))",Chrome 114.0.0.0,,,2023-06-10 00:20:53,2023-06-10 00:21:24,30.620s,PASSED
+"verifyElementPresent(findTestObject(""OVO/title_News""), 0)",Chrome 114.0.0.0,,,2023-06-10 00:21:24,2023-06-10 00:21:24,0.281s,PASSED
+"scrollToElement(findTestObject(""OVO/section_News""), 0)",Chrome 114.0.0.0,,,2023-06-10 00:21:24,2023-06-10 00:21:24,0.282s,PASSED
+"takeFullPageScreenshotAsCheckpoint(""Check news page visual"")",Chrome 114.0.0.0,,,2023-06-10 00:21:24,2023-06-10 00:21:33,8.747s,PASSED
+,,,,,,,
+Test Cases/Ovo/Open Home Menu,Chrome 114.0.0.0,,,2023-06-10 00:21:33,2023-06-10 00:24:33,3m - 0.185s,PASSED
+"openBrowser(""https://www.ovo.id/"")",Chrome 114.0.0.0,,,2023-06-10 00:21:33,2023-06-10 00:24:32,2m - 59.626s,PASSED
+"verifyElementPresent(findTestObject(""OVO/homeMenu""), 0)",Chrome 114.0.0.0,,,2023-06-10 00:24:32,2023-06-10 00:24:33,0.269s,PASSED
+"click(findTestObject(""OVO/homeMenu""))",Chrome 114.0.0.0,,,2023-06-10 00:24:33,2023-06-10 00:24:33,0.286s,PASSED

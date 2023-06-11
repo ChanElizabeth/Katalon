@@ -25,3 +25,5 @@ WebUI.verifyElementPresent(findTestObject('OVO/aboutus_title'), 0)
 
 WebUI.scrollToElement(findTestObject('OVO/aboutus_section'), 0)
 
+WebUI.takeFullPageScreenshotAsCheckpoint('Check about us page visual')
+

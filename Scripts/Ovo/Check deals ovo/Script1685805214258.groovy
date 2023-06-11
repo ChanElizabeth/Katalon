@@ -25,3 +25,5 @@ WebUI.verifyElementPresent(findTestObject('OVO/title_Deals'), 0)
 
 WebUI.scrollToElement(findTestObject('OVO/section_Deals'), 0)
 
+WebUI.takeFullPageScreenshotAsCheckpoint('Check deals page visual')
+
